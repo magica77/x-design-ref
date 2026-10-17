@@ -1,0 +1,24 @@
+{
+ "_note": "Daily X searches to run via MCP namespace `x`, tool `search_posts_all`. Replace {SINCE} with data/state.json last_run minus 1 day (ISO-8601 UTC) and pass it as start_time. X search has no engagement filter, so the >50K impressions threshold is applied afterwards by mcp_to_candidates.py / ingest.py. Brand-account queries are what reliably surface >50K posts; keyword queries mostly return small accounts.",
+ "common_args": {
+  "sort_order": "relevancy",
+  "max_results": 25,
+  "start_time": "{SINCE}",
+  "post.fields": "created_at,public_metrics,entities,attachments,lang,note_tweet,referenced_tweets",
+  "expansions": "author_id,attachments.media_keys",
+  "media.fields": "type,url,preview_image_url,duration_ms,variants",
+  "user.fields": "username,name"
+ },
+ "queries": [
+  {"category": "Infographic", "query": "(from:VisualCap OR from:VoronoiApp OR from:OurWorldInData OR from:simongerman600 OR from:infobeautiful OR from:BrilliantMaps OR from:MaxCRoser OR from:StatistaCharts) has:images -is:retweet -is:reply"},
+  {"category": "Infographic", "query": "(infographic OR dataviz OR \"data visualization\" OR #infographic OR #dataviz) has:media -is:retweet -is:reply lang:en"},
+  {"category": "Animated Website", "query": "(from:awwwards OR from:framer OR from:webflow OR from:rive_app OR from:splinetool OR from:codrops OR from:greensock OR from:threejs OR from:jh3yy OR from:emilkowalski OR from:raunofreiberg OR from:rauchg OR from:mattgperry OR from:joshwcomeau) has:videos -is:retweet -is:reply"},
+  {"category": "Animated Website", "query": "(\"scroll animation\" OR webgl OR three.js OR awwwards OR gsap OR \"landing page\" OR #webdesign OR #motiondesign) has:videos -is:retweet -is:reply lang:en"},
+  {"category": "Product Intro", "query": "(from:figma OR from:linear OR from:vercel OR from:raycastapp OR from:NotionHQ OR from:stripe OR from:github OR from:cursor_ai OR from:perplexity_ai OR from:OpenAI OR from:AnthropicAI OR from:tldraw OR from:supabase OR from:Replit OR from:excalidraw) has:videos -is:retweet -is:reply"},
+  {"category": "Product Intro", "query": "(introducing OR \"launch video\" OR \"today we're launching\" OR \"we just launched\") has:videos -is:retweet -is:reply lang:en"},
+  {"category": "App Intro", "query": "(from:warpdotdev OR from:zeddotdev OR from:obsdmd OR from:screenstudio OR from:CleanShotApp OR from:mymind OR from:CapacitiesHQ OR from:Superhuman OR from:browsercompany OR from:granola_ai OR from:shadcn OR from:Readwise) has:videos -is:retweet -is:reply"},
+  {"category": "App Intro", "query": "(\"now available\" OR \"is here\" OR \"available today\" OR \"app demo\" OR onboarding) (app OR CLI OR desktop OR iOS) has:videos -is:retweet -is:reply lang:en"}
+ ],
+ "replies_query": "conversation_id:{ID} -from:{AUTHOR}  (sort_order=relevancy, max_results=15, post.fields=public_metrics,author_id, expansions=author_id, user.fields=username)",
+ "min_impressions": 50000
+}

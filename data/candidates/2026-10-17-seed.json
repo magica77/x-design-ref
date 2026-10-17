@@ -1,0 +1,1203 @@
+[
+ {
+  "id": "2108249557519970369",
+  "url": "https://x.com/excalidraw/status/2108249557519970369",
+  "author_username": "excalidraw",
+  "author_name": "Excalidraw",
+  "created_at": "2026-10-08T17:33:58.000Z",
+  "text": "Excalidraw CLI released!\n\nLog in to your Excalidraw+ account or use with local files.\n\nYou can easily render Excalidraw diagrams to give better output feedback to your agents.\n\nInstall today.",
+  "public_metrics": {
+   "bookmark_count": 844,
+   "impression_count": 72692,
+   "like_count": 1479,
+   "quote_count": 24,
+   "reply_count": 48,
+   "retweet_count": 97
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108248656126111744/img/U-wrCqEquBX2hp3-.jpg",
+    "duration_ms": 38866,
+    "mp4": "https://video.twimg.com/amplify_video/2108248656126111744/vid/avc1/1280x720/QRuIXo38Qfpk6hAi.mp4"
+   }
+  ],
+  "category": "App Intro",
+  "description": "Excalidraw's 39-second launch video for the Excalidraw CLI, which renders Excalidraw diagrams from Excalidraw+ or local files so AI agents can see and check their own diagrams. The video pairs a hand-drawn title ('Render any scene to PNG') with a clean terminal session listing and rendering scenes. It's a strong reference for a short, focused developer-tool intro: one capability, shown in the product's own visual language, ending on a one-line call to action ('Install today').",
+  "derived_tags": [
+   "cli",
+   "developer-tools",
+   "product-demo"
+  ],
+  "replies_summary": "Overwhelmingly positive and practical: most replies latch onto the agent 'render loop' — letting agents render and look at their own diagrams so humans can spot misunderstandings fast — and several users report already adding it to workflows. Recurring questions are about pricing ('Is it free to use?'), CLI vs. MCP, and whether the rendered PNG flows back into the agent's context; a few push long-standing feature requests (subfolders) or name alternatives (tldraw, Mermaid). Quote posts echo the same theme ('My agents will love this') across English, Japanese, Turkish, Portuguese, Chinese and Korean audiences.",
+  "notable_replies": [
+   {
+    "handle": "@Simplyrapp",
+    "text": "A CLI for diagrams is sneaky useful: agents can render what they think the system looks like, and humans can spot the misunderstanding in seconds."
+   },
+   {
+    "handle": "@arpittalksstuff",
+    "text": "letting agents render and look at their own output is so underrated."
+   },
+   {
+    "handle": "@rdiazjonguitud",
+    "text": "Tried it. Great work, adding it to my daily workflows."
+   },
+   {
+    "handle": "@sethpchen",
+    "text": "But what about a simple feature like subfolders? It’s been pending for years 😅"
+   }
+  ],
+  "gold_standard": true
+ },
+ {
+  "id": "2095182189499711759",
+  "url": "https://x.com/danlovesproofs/status/2095182189499711759",
+  "author_username": "danlovesproofs",
+  "author_name": "Dan Robinson",
+  "created_at": "2026-09-02T16:08:55.000Z",
+  "text": "Eight months ago we launched a bug finder that you could run once a month. Today we're launching Self Healing for your codebase.\n\nIntroducing Detail! https://t.co/MBeqLA1WJw",
+  "public_metrics": {
+   "bookmark_count": 930,
+   "impression_count": 232000,
+   "like_count": 760,
+   "quote_count": 37,
+   "reply_count": 65,
+   "repost_count": 56
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095159217221197824/img/_j8qQdF11U-SD4ap.jpg",
+    "duration_ms": 15466,
+    "mp4": "https://video.twimg.com/amplify_video/2095159217221197824/vid/avc1/684x360/2zIJahwydeJZuIFP.mp4"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "Launch video introducing Detail, framed as 'Self Healing for your codebase' — a follow-up to the team's bug finder launched eight months earlier. Useful reference for a launch post that tells a one-line before/after story ('run once a month' → self-healing) and lets the video carry the demo.",
+  "derived_tags": [
+   "launch-video",
+   "developer-tools",
+   "ai"
+  ],
+  "replies_summary": "The X search returned no replies for this conversation (two queries), so no reply sentiment could be summarized.",
+  "notable_replies": [],
+  "gold_standard": false
+ },
+ {
+  "id": "2106007036324438159",
+  "url": "https://x.com/WalshyDev/status/2106007036324438159",
+  "author_username": "WalshyDev",
+  "author_name": "Walshy",
+  "created_at": "2026-10-02T13:02:59.000Z",
+  "text": "Introducing Cloudflare Traces\n\nToday we're launching Cloudflare Traces, a way for you to get an unprecedented view into requests going through Cloudflare!\n\nWhy was a request blocked?\nWhy did a request fail?\nWhy was a request slow?\n\nFind out with Traces!\n\nhttps://t.co/5HinGUfmhX",
+  "public_metrics": {
+   "bookmark_count": 260,
+   "impression_count": 51830,
+   "like_count": 548,
+   "quote_count": 16,
+   "reply_count": 20,
+   "repost_count": 52
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106006993823571968/img/CIE_Q1LwKMJF9vm9.jpg",
+    "duration_ms": 43400,
+    "mp4": "https://video.twimg.com/amplify_video/2106006993823571968/vid/avc1/640x360/9AA2CP2Co3wd11LA.mp4"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "Cloudflare Traces launch video: a timeline view of requests passing through Cloudflare that answers why a request was blocked, failed or was slow. Good reference for problem-led launch copy (three 'Why…?' questions) paired with a product walkthrough video.",
+  "derived_tags": [
+   "launch-video",
+   "observability",
+   "dashboard-ui"
+  ],
+  "replies_summary": "Positive, technically engaged audience: people like seeing rewrites, firewall decisions and origin wait time on one request timeline instead of cross-checking separate logs. Follow-up questions focus on OpenTelemetry compliance, trace-context propagation in Workers, request-ID pivoting and retention.",
+  "notable_replies": [
+   {
+    "handle": "@chikuwabu_algo",
+    "text": "Seeing URL rewrites and the wait for the origin in one timeline is the useful part for me."
+   },
+   {
+    "handle": "@dartasticio",
+    "text": "Is it OpenTelemetry compliant?"
+   },
+   {
+    "handle": "@jachands",
+    "text": "What. This is amazing omg"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2110792992697078075",
+  "url": "https://x.com/VisualCap/status/2110792992697078075",
+  "author_username": "VisualCap",
+  "author_name": "Visual Capitalist",
+  "created_at": "2026-10-15T18:00:40.000Z",
+  "text": "Ranked: The World’s 30 Largest Banks in 2026 🏦 \n\nhttps://t.co/DCjslNOZ7v https://t.co/2BW8Sohv3j",
+  "public_metrics": {
+   "bookmark_count": 192,
+   "impression_count": 70907,
+   "like_count": 508,
+   "quote_count": 17,
+   "reply_count": 10,
+   "repost_count": 113
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HUsK7FgXUAAfSOb.jpg",
+    "preview_image_url": null,
+    "duration_ms": null,
+    "mp4": null
+   }
+  ],
+  "category": "Infographic",
+  "description": "Visual Capitalist's 'The World's Largest Banks by Total Assets, 2026': a bubble-cluster infographic on a dark navy background where circles sized by assets are grouped and color-coded by country (China in red, the US in blue, France in purple, and so on), with each bank's logo and rank inside its bubble. A great reference for proportional-area clustering with strong color coding.",
+  "derived_tags": [
+   "ranking-chart",
+   "finance",
+   "data-visualization"
+  ],
+  "replies_summary": "Reactions are about the data, not the design: surprise that the top four banks are Chinese (one reply notes an agricultural bank outranking JPMorgan), a methodological pushback (rank by equity rather than assets) and some off-topic or snarky comments.",
+  "notable_replies": [
+   {
+    "handle": "@Jbond069",
+    "text": "You should rank them by Equity not Assets considering that a large part of them are funded by deposits from clients"
+   },
+   {
+    "handle": "@JimGilbert409",
+    "text": "Wow, who would’ve imagined the four largest banks would be in China?!?!"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2110606384761069955",
+  "url": "https://x.com/figma/status/2110606384761069955",
+  "author_username": "figma",
+  "author_name": "Figma",
+  "created_at": "2026-10-15T05:39:09.000Z",
+  "text": "Introducing Specs: a new medium for markdown that brings context into, out of, and across Figma AND it’s collaborative AND has unique-to-Figma visual features\n\nLive from Config India https://t.co/i3F4FwAu4I",
+  "public_metrics": {
+   "bookmark_count": 364,
+   "impression_count": 3754977,
+   "like_count": 1217,
+   "quote_count": 37,
+   "reply_count": 36,
+   "repost_count": 81
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110606045416660992/img/htr6XD_83IJf6Qj9.jpg",
+    "duration_ms": 40750,
+    "mp4": "https://video.twimg.com/amplify_video/2110606045416660992/vid/avc1/640x360/fzzaJG5-SCMfEQCA.mp4"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "Figma introduces Specs, a collaborative markdown medium with Figma-specific visual features, announced live from Config India. Reference for a keynote-style feature reveal video that explains a new primitive ('a new medium for markdown') in one sentence.",
+  "derived_tags": [
+   "launch-video",
+   "figma",
+   "config"
+  ],
+  "replies_summary": "Mostly positive: many see markdown as the shared interface between humans and agents and like keeping the 'why' next to the frame. Critics question the name, ask how Specs differ from annotations, or call it bloat.",
+  "notable_replies": [
+   {
+    "handle": "@archrainey",
+    "text": "Markdown is becoming the interface between humans and agents."
+   },
+   {
+    "handle": "@UchihaSomil",
+    "text": "Keeping the \"why\" next to the frame is the useful part. Most specs die in a doc nobody reopens after handoff."
+   },
+   {
+    "handle": "@m00kieblayl0ck",
+    "text": "Oof terrible name for this. It's just markdown docs?"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2110603044346052714",
+  "url": "https://x.com/figma/status/2110603044346052714",
+  "author_username": "figma",
+  "author_name": "Figma",
+  "created_at": "2026-10-15T05:25:53.000Z",
+  "text": "Wake up babe the Figma Chrome extension can now capture your website code and bring into Figma as a code layer \n\nLive from Config India https://t.co/im2awSct2o",
+  "public_metrics": {
+   "bookmark_count": 1535,
+   "impression_count": 5493464,
+   "like_count": 2683,
+   "quote_count": 115,
+   "reply_count": 93,
+   "repost_count": 177
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110597008440606720/img/D1LN2Idggumc1mET.jpg",
+    "duration_ms": 31166,
+    "mp4": "https://video.twimg.com/amplify_video/2110597008440606720/vid/avc1/640x360/79A8m1yphmHWiTte.mp4"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "Figma shows its Chrome extension capturing a live website's code and bringing it into Figma as a code layer (Config India). Reference for a casual, meme-voiced launch post ('Wake up babe…') backed by a short capture-to-canvas demo.",
+  "derived_tags": [
+   "launch-video",
+   "figma",
+   "browser-extension"
+  ],
+  "replies_summary": "The most polarized reply section in the set: many replies joke or worry that capturing any site makes copying designs effortless ('even stealing will be low to zero effort now'), with ironic '\"your\" website' jabs. A few ask practical questions, such as whether captured layers stay responsive across frame sizes.",
+  "notable_replies": [
+   {
+    "handle": "@wojototo",
+    "text": "Oh for fucks sake - even stealing will be low to zero effort now 😃"
+   },
+   {
+    "handle": "@BlastProjects",
+    "text": "Does the captured code layer retain responsive behavior across frame sizes?"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2110600144525853007",
+  "url": "https://x.com/figma/status/2110600144525853007",
+  "author_username": "figma",
+  "author_name": "Figma",
+  "created_at": "2026-10-15T05:14:22.000Z",
+  "text": "Together at last: design and code on the canvas\n\nCode Layers are here, now in open beta\n\nLive from Config India https://t.co/8agUANrm8w",
+  "public_metrics": {
+   "bookmark_count": 167,
+   "impression_count": 5118779,
+   "like_count": 838,
+   "quote_count": 22,
+   "reply_count": 22,
+   "repost_count": 44
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110596664105041920/img/eh8t3-Fy64kZRnmf.jpg",
+    "duration_ms": 34833,
+    "mp4": "https://video.twimg.com/amplify_video/2110596664105041920/vid/avc1/640x360/NNdwHfrj8aApX7Gg.mp4"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "Figma's headline Config India launch: Code Layers (open beta), putting design and code together on the canvas. A high-reach reference (5M+ impressions) for a short, confident tagline ('Together at last') over a hero product video.",
+  "derived_tags": [
+   "launch-video",
+   "figma",
+   "design-to-code"
+  ],
+  "replies_summary": "Largely excited ('Canvas is code!'), with designers relieved at no longer screenshotting layouts for engineers and some speculation that 'handoff' stops being a job. There's some job-anxiety snark and a question about how prototype connectors render to code.",
+  "notable_replies": [
+   {
+    "handle": "@acream_1",
+    "text": "Canvas is code!🙌🏻🌟"
+   },
+   {
+    "handle": "@lilfourndev",
+    "text": "design and code on one canvas is the thing people kept faking with screenshots."
+   },
+   {
+    "handle": "@lucyxxfeatherr",
+    "text": "the real flex is finally not having to screenshot my figma to explain a layout to engineering"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2111193957527146711",
+  "url": "https://x.com/cursor_ai/status/2111193957527146711",
+  "author_username": "cursor_ai",
+  "author_name": "Cursor",
+  "created_at": "2026-10-16T20:33:58.000Z",
+  "text": "Cloud agents can now build interactive canvases.\n\nAsk for a dashboard or report while the agent works, then share the finished canvas with your team as a link. https://t.co/cLGgGLKrBT",
+  "public_metrics": {
+   "bookmark_count": 491,
+   "impression_count": 113496,
+   "like_count": 2250,
+   "quote_count": 67,
+   "reply_count": 184,
+   "repost_count": 120
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2111193927281975296/img/jmpZoSMCuffYV9Ol.jpg",
+    "duration_ms": 25000,
+    "mp4": "https://video.twimg.com/amplify_video/2111193927281975296/vid/avc1/640x360/F_i_6MOFp6oIKJu0.mp4?tag=16"
+   }
+  ],
+  "category": "App Intro",
+  "description": "Cursor demo of cloud agents building interactive canvases — ask for a dashboard or report while the agent works, then share the canvas as a link. Reference for an in-product feature demo that shows the output artifact rather than the chat.",
+  "derived_tags": [
+   "product-demo",
+   "ai-agents",
+   "dashboard-ui"
+  ],
+  "replies_summary": "Positive on the idea that a shareable dashboard beats agent logs or Slack screenshots, with tips (state the audience; show data source and refresh time) and questions about live data and editing control. A cluster of replies are unrelated billing/refund complaints.",
+  "notable_replies": [
+   {
+    "handle": "@kre8ivtech",
+    "text": "Canvases as the deliverable is the right call. Most stakeholders never read agent logs, they read the dashboard."
+   },
+   {
+    "handle": "@NoravaleAI",
+    "text": "A shareable canvas link beats pasting agent screenshots into Slack 👀"
+   },
+   {
+    "handle": "@geminitfwang",
+    "text": "Can shared canvases update after the agent finishes?"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2110857277494169647",
+  "url": "https://x.com/supabase/status/2110857277494169647",
+  "author_username": "supabase",
+  "author_name": "Supabase",
+  "created_at": "2026-10-15T22:16:07.000Z",
+  "text": "People have been asking to run Supabase locally without Docker for a while. You can do that now. 🐳\n\nPlus, every coding agent gets its own local project, so one can reset its database while another is mid test run.\n\nhttps://t.co/RZCPtRNfGv https://t.co/bc2WbKRw28",
+  "public_metrics": {
+   "bookmark_count": 405,
+   "impression_count": 68523,
+   "like_count": 708,
+   "quote_count": 27,
+   "reply_count": 67,
+   "repost_count": 50
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2110857143616192512/pu/img/8x59ejez6bjXFXkW.jpg",
+    "duration_ms": 89708,
+    "mp4": "https://video.twimg.com/ext_tw_video/2110857143616192512/pu/vid/avc1/640x360/LBY2TUGdDaOqgSYb.mp4?tag=12"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "Supabase announces running Supabase locally without Docker, plus a separate local project per coding agent. Reference for a developer-launch video that leads with a long-requested pain point.",
+  "derived_tags": [
+   "launch-video",
+   "developer-tools",
+   "database"
+  ],
+  "replies_summary": "Strongly positive and unusually consistent: almost every reply singles out per-agent local projects as the real win, since agents sharing one database cause failures you can't reproduce. Follow-ups ask about lazy-start wake latency, lifecycle and cleanup, and RLS hygiene before deploying.",
+  "notable_replies": [
+   {
+    "handle": "@bullbear_info",
+    "text": "isolation per agent is the actual win here"
+   },
+   {
+    "handle": "@truongphamit",
+    "text": "Two agents sharing one local db is how you get test failures nobody can reproduce."
+   },
+   {
+    "handle": "@adityareddydev",
+    "text": "lazy start is the part I'd want a number on."
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2110853125389029437",
+  "url": "https://x.com/NotionHQ/status/2110853125389029437",
+  "author_username": "NotionHQ",
+  "author_name": "Notion",
+  "created_at": "2026-10-15T21:59:37.000Z",
+  "text": "New: Your buttons just got a brain 🧠\n\nButton automations can now message your agents. Add a prompt to a button, and anyone on your team can trigger a workflow with a click. https://t.co/u3L7lcAnlc",
+  "public_metrics": {
+   "bookmark_count": 241,
+   "impression_count": 56256,
+   "like_count": 556,
+   "quote_count": 12,
+   "reply_count": 24,
+   "repost_count": 36
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110846737241788416/img/1IXaVa352qOHNDcj.jpg",
+    "duration_ms": 17133,
+    "mp4": "https://video.twimg.com/amplify_video/2110846737241788416/vid/avc1/640x360/kM66Sqykd_vA6cZH.mp4"
+   }
+  ],
+  "category": "App Intro",
+  "description": "Notion's feature demo: button automations can now message agents, so a prompt sits behind a button any teammate can click. Reference for a tight one-feature UI demo with a playful hook ('Your buttons just got a brain 🧠').",
+  "derived_tags": [
+   "product-demo",
+   "ai-agents",
+   "no-code"
+  ],
+  "replies_summary": "Enthusiastic overall. Many people say a button is the right UX for teammates who will never write a prompt; others share use-case ideas. Critiques ask for per-page button relevance and less clicking, and call the existing automation layer 'archaic'.",
+  "notable_replies": [
+   {
+    "handle": "@openpod__",
+    "text": "Putting the prompt behind a button is underrated. Half the team will never write a prompt, but everyone clicks buttons."
+   },
+   {
+    "handle": "@faithsteader",
+    "text": "Button properties would be much more useful IMO if it was easier to only show buttons relevant to a particular page in the database"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2110808586389766404",
+  "url": "https://x.com/vercel/status/2110808586389766404",
+  "author_username": "vercel",
+  "author_name": "Vercel",
+  "created_at": "2026-10-15T19:02:38.000Z",
+  "text": "Introducing https://t.co/KWzuDDlyvD.\n\nLimited drops, original designs, and a few things you didn't see coming.\n\nPowered by @nextjs, @Shopify Hydrogen &amp; @eve. https://t.co/RA6VsKRBRt",
+  "public_metrics": {
+   "bookmark_count": 166,
+   "impression_count": 60909,
+   "like_count": 613,
+   "quote_count": 23,
+   "reply_count": 43,
+   "repost_count": 28
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110808552315244544/img/w09Q-mbbWm35VFDl.jpg",
+    "duration_ms": 28352,
+    "mp4": "https://video.twimg.com/amplify_video/2110808552315244544/vid/avc1/640x360/S8DE2ZxnIkmla5H6.mp4?tag=16"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "Vercel introduces its merch store: limited drops and original designs, powered by Next.js, Shopify Hydrogen and eve. Reference for a brand/merch launch video and a storefront used as a stack showcase.",
+  "derived_tags": [
+   "launch-video",
+   "e-commerce",
+   "brand"
+  ],
+  "replies_summary": "Mostly hype ('Crazyyy good', 'these are pretty sick'), plus developers praising Next.js + Hydrogen as a clean drop-commerce stack. The top-liked reply complains the racing-themed line isn't 'normal stuff', and others joke about 504 errors and bots.",
+  "notable_replies": [
+   {
+    "handle": "@kerim0x1",
+    "text": "im not a fucking f1 driver or mechanic: im a vibe coder where is normal stuff"
+   },
+   {
+    "handle": "@Daviswh",
+    "text": "Next.js + Shopify Hydrogen for limited drops is a clean stack for drop commerce."
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2110797830361436604",
+  "url": "https://x.com/OpenAI/status/2110797830361436604",
+  "author_username": "OpenAI",
+  "author_name": "OpenAI",
+  "created_at": "2026-10-15T18:19:54.000Z",
+  "text": "New voices. Better accents. And less \"checking...\"\n\nGPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese.\n\nRolling out today to all users. Coming soon to the API. https://t.co/L6K8ZUC1xm",
+  "public_metrics": {
+   "bookmark_count": 1835,
+   "impression_count": 1864398,
+   "like_count": 11159,
+   "quote_count": 553,
+   "reply_count": 814,
+   "repost_count": 802
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/media/HUsEKcobYAAf2Bg.jpg",
+    "duration_ms": 40733,
+    "mp4": "https://video.twimg.com/amplify_video/2110784796872024064/vid/avc1/640x360/6RaSXpCT6iP95Hzr.mp4"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "OpenAI announces GPT-Live-1.1 for ChatGPT Voice (new voices, better accents, fewer 'checking…' pauses), rolling out across ChatGPT, Codex and dots. Reference for an audio-first product video with a three-beat hook line.",
+  "derived_tags": [
+   "launch-video",
+   "voice-ui",
+   "ai"
+  ],
+  "replies_summary": "Mixed and multilingual: some thanks for new accents (Mexican Spanish), but native speakers question accent authenticity (Japanese, Mexican Spanish). Others ask for more languages (Swahili, Greek) or API timing, and a #Keep4o campaign reply gets the most likes.",
+  "notable_replies": [
+   {
+    "handle": "@SolviedoQuantum",
+    "text": "\"Less checking...\" is the one I care about. Latency is what makes voice feel like a tool or a toy."
+   },
+   {
+    "handle": "@serg_raya",
+    "text": "Thank you for the Mexican Spanish accent!"
+   },
+   {
+    "handle": "@0301Net",
+    "text": "That doesn't sound AT ALL mexican."
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2107163345606582307",
+  "url": "https://x.com/obsdmd/status/2107163345606582307",
+  "author_username": "obsdmd",
+  "author_name": "Obsidian",
+  "created_at": "2026-10-05T17:37:45.000Z",
+  "text": "Obsidian 1.14 is now available with five major improvements:\n\n1. Edit Markdown files outside your vault\n2. Preview files using macOS Quick Look when the app is closed\n3. Instantly add notes with Quick Capture on iOS\n4. Kanban and new grouping options in Bases\n5. Highlight colors https://t.co/geYqv63w2J",
+  "public_metrics": {
+   "bookmark_count": 431,
+   "impression_count": 154548,
+   "like_count": 1882,
+   "quote_count": 25,
+   "reply_count": 49,
+   "repost_count": 133
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107160124121067520/img/dyZJCKeK9nO8wOGN.jpg",
+    "duration_ms": 9333,
+    "mp4": "https://video.twimg.com/amplify_video/2107160124121067520/vid/avc1/548x360/u9QbOUYqrYlMzML5.mp4"
+   }
+  ],
+  "category": "App Intro",
+  "description": "Obsidian 1.14 release video covering five improvements: editing markdown outside the vault, macOS Quick Look previews, iOS Quick Capture, Kanban/grouping in Bases, and highlight colors. Reference for a numbered multi-feature release reel.",
+  "derived_tags": [
+   "release-video",
+   "productivity",
+   "markdown"
+  ],
+  "replies_summary": "Appreciative, with users seeing outside-the-vault editing as the headline because so much markdown now lives in repos (READMEs, agent instruction files). Replies also bring requests (Android quick capture, a VS Code extension, merged task management) and small bug reports.",
+  "notable_replies": [
+   {
+    "handle": "@RandyNorthrup",
+    "text": "Editing Markdown outside the vault is the big one. A lot of Markdown now lives in repos"
+   },
+   {
+    "handle": "@eggbaby",
+    "text": "A fleeting idea shouldn't have to survive a loading screen before it becomes"
+   },
+   {
+    "handle": "@karolgost_",
+    "text": "Any plans for Android quick capture? 👀"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2105353453815861370",
+  "url": "https://x.com/warpdotdev/status/2105353453815861370",
+  "author_username": "warpdotdev",
+  "author_name": "Warp",
+  "created_at": "2026-09-30T17:45:53.000Z",
+  "text": "Agents are getting complex to manage: models, skills, automations, permissions, cloud environments, orchestration patterns...\n\nSo, we built the Terraform for agents: one repository that configures all of your agents as code.\n\nThe Warp Factories configuration spec defines:\n- Agents and orchestration: how work gets routed and which models agents use\n- Automations: the events and schedules that kick off work\n- Access and environments: repositories, secrets, MCP servers, and runners\n- Measurement: scorers and benchmarks for understanding and improving performance\n\nBecause it’s all code, both engineers and agents can propose changes to the factory itself. That makes it possible to test new configurations, benchmark them, and even have your factory propose improvements as PRs.",
+  "public_metrics": {
+   "bookmark_count": 79,
+   "impression_count": 955198,
+   "like_count": 90,
+   "quote_count": 3,
+   "reply_count": 8,
+   "repost_count": 6
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105350862423867392/img/TIqtC-7w0SCnj7ht.jpg",
+    "duration_ms": 21250,
+    "mp4": "https://video.twimg.com/amplify_video/2105350862423867392/vid/avc1/486x360/HMxxst3tgQZla5IT.mp4"
+   }
+  ],
+  "category": "App Intro",
+  "description": "Warp introduces Warp Factories, 'Terraform for agents': one repository that configures agents, automations, access/environments and measurement as code. A very high-reach (~955K impressions) reference for explaining an abstract platform concept with an analogy plus a demo video.",
+  "derived_tags": [
+   "product-demo",
+   "ai-agents",
+   "developer-tools"
+  ],
+  "replies_summary": "Engaged and mostly constructive: replies agree that managing agents is becoming its own discipline and that agents-as-code is the right shape. They raise version pinning, permissions and revoke paths, with some irony about writing YAML to manage AI.",
+  "notable_replies": [
+   {
+    "handle": "@therealhacker97",
+    "text": "we've come full circle: AI was supposed to delete YAML. now we're writing YAML to manage the AI."
+   },
+   {
+    "handle": "@rudraxx13",
+    "text": "managing agents is becoming its own discipline."
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2104980061405508023",
+  "url": "https://x.com/obsdmd/status/2104980061405508023",
+  "author_username": "obsdmd",
+  "author_name": "Obsidian",
+  "created_at": "2026-09-29T17:02:09.000Z",
+  "text": "macOS Quick Look is in Obsidian 1.14.3 (early access) so you can instantly preview Markdown files even if the app isn't open https://t.co/dP0HcE35Df",
+  "public_metrics": {
+   "bookmark_count": 118,
+   "impression_count": 85232,
+   "like_count": 580,
+   "quote_count": 6,
+   "reply_count": 26,
+   "repost_count": 28
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104979840223109120/img/zVOzOKRPBT2LVgDN.jpg",
+    "duration_ms": 9333,
+    "mp4": "https://video.twimg.com/amplify_video/2104979840223109120/vid/avc1/548x360/R4ZfMUHaQ8QQKJEN.mp4"
+   }
+  ],
+  "category": "App Intro",
+  "description": "Short Obsidian demo of macOS Quick Look previews for markdown files (1.14.3 early access), even when the app isn't open. Reference for a micro-demo that shows a single OS-level interaction.",
+  "derived_tags": [
+   "product-demo",
+   "macos",
+   "markdown"
+  ],
+  "replies_summary": "Excited ('waited for this for so long', 'game changer') with a few skeptics noting existing plugins. Much of the thread is support: plain-text previews until the insider installer is used, and confusion about getting the beta installer via Discord.",
+  "notable_replies": [
+   {
+    "handle": "@paakjong",
+    "text": "wtf this game changer. no more opening the whole vault just to check one file."
+   },
+   {
+    "handle": "@CaptSolo",
+    "text": "needed to get the insider-preview version of the Obsidian installer, too. Now Markdown previews look beautiful! 😃"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2103289058772586872",
+  "url": "https://x.com/zeddotdev/status/2103289058772586872",
+  "author_username": "zeddotdev",
+  "author_name": "Zed",
+  "created_at": "2026-09-25T01:02:43.000Z",
+  "text": "A single setting removes every AI-related feature in Zed.\n\nNot a VS Code fork, btw... https://t.co/dp1LVb2czW https://t.co/O42VUB2WhZ",
+  "public_metrics": {
+   "bookmark_count": 532,
+   "impression_count": 268975,
+   "like_count": 4534,
+   "quote_count": 48,
+   "reply_count": 171,
+   "repost_count": 147
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103288803171434496/img/6lVlEI1eqHiHvYad.jpg",
+    "duration_ms": 6766,
+    "mp4": "https://video.twimg.com/amplify_video/2103288803171434496/vid/avc1/562x360/q-KH3QNu9NUTb2qc.mp4"
+   }
+  ],
+  "category": "App Intro",
+  "description": "Zed editor demo showing a single setting that removes every AI-related feature, with a cheeky 'Not a VS Code fork, btw…'. Reference for a personality-driven, one-toggle product clip.",
+  "derived_tags": [
+   "product-demo",
+   "code-editor",
+   "settings-ui"
+  ],
+  "replies_summary": "Mostly warm brand affection ('Love ya Zed', 'whoever runs this account deserves a raise'), with some 'why?' and 'VS Code has that too' replies plus feature requests (git tooling) and a critique to ship tooling instead of wrappers.",
+  "notable_replies": [
+   {
+    "handle": "@pcstyle53",
+    "text": "whoever runs this account deserves a raise lol"
+   },
+   {
+    "handle": "@rannjiit",
+    "text": "vscode has that setting too"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2110768162811867608",
+  "url": "https://x.com/screenstudio/status/2110768162811867608",
+  "author_username": "screenstudio",
+  "author_name": "Screen Studio",
+  "created_at": "2026-10-15T16:22:00.000Z",
+  "text": "Introducing Glass Loupe in Screen Studio.\n\nMagnify just the part that matters, without zooming the whole screen. https://t.co/Jd3WNDJ1Ri",
+  "public_metrics": {
+   "bookmark_count": 6,
+   "impression_count": 72884,
+   "like_count": 38,
+   "quote_count": 0,
+   "reply_count": 4,
+   "repost_count": 5
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110767445937971200/img/GX83GKG5oTA0a4T9.jpg",
+    "duration_ms": 32791,
+    "mp4": "https://video.twimg.com/amplify_video/2110767445937971200/vid/avc1/480x852/tcV0wN4Rhh4jxglw.mp4"
+   }
+  ],
+  "category": "App Intro",
+  "description": "Screen Studio introduces Glass Loupe, which magnifies just part of the screen instead of zooming the whole recording. A strong reference for app intro/demo videos: the tool itself is used to make polished product demos, and the post demos a lens-style magnifier effect.",
+  "derived_tags": [
+   "product-demo",
+   "screen-recording",
+   "motion"
+  ],
+  "replies_summary": "Positive ('such a helpful addition'). The main thread is a subscriber wishing agents could drive Screen Studio via CLI/MCP, and the maker replies that it's planned but they want to do it well. Another founder asks whether the shot is real.",
+  "notable_replies": [
+   {
+    "handle": "@Kingx191",
+    "text": "Such a helpful addition for focusing on key details while presenting"
+   },
+   {
+    "handle": "@AL8ATROS",
+    "text": "This is something we will add, but we want to make it good, not just for the sake of having it :)"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2108593170569175495",
+  "url": "https://x.com/jh3yy/status/2108593170569175495",
+  "author_username": "jh3yy",
+  "author_name": "jhey ʕ•ᴥ•ʔ",
+  "created_at": "2026-10-09T16:19:22.000Z",
+  "text": "reminder: you can use css mix-blend-mode to create knockout text ↓ 🧑‍🍳\n\n.sticker {\n  background: #000;\n  color: #​fff;\n  mix-blend-mode: multiply;\n} https://t.co/BqKdvHtQJK",
+  "public_metrics": {
+   "bookmark_count": 1630,
+   "impression_count": 54223,
+   "like_count": 2166,
+   "quote_count": 6,
+   "reply_count": 49,
+   "repost_count": 137
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108590602988265472/img/RU0JG67QaZS2CgNC.jpg",
+    "duration_ms": 25600,
+    "mp4": "https://video.twimg.com/amplify_video/2108590602988265472/vid/avc1/540x540/p4WSwfm56TmpvpvN.mp4"
+   }
+  ],
+  "category": "Animated Website",
+  "description": "Jhey's CSS micro-tutorial: knockout text using mix-blend-mode: multiply on a black/white 'sticker', shown as an animated demo with the code in the post. Reference for web text effects and teaching CSS techniques through motion.",
+  "derived_tags": [
+   "css",
+   "mix-blend-mode",
+   "web-animation"
+  ],
+  "replies_summary": "Delighted ('What is this sorcery', 'such a tasty little trick') with practical notes: multiply is simpler than background-clip, watch for color shifts on non-white backgrounds, and which layer needs isolation: isolate.",
+  "notable_replies": [
+   {
+    "handle": "@tochukwudev",
+    "text": "never thought of using multiply for this, way simpler than background-clip"
+   },
+   {
+    "handle": "@Sqwn1405",
+    "text": "multiply is clutch but watch out for color shifts on non-white backgrounds"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2108574564586332615",
+  "url": "https://x.com/shadcn/status/2108574564586332615",
+  "author_username": "shadcn",
+  "author_name": "shadcn",
+  "created_at": "2026-10-09T15:05:26.000Z",
+  "text": "Alright, I've made the shadcn/ui skills really good at 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍.\n\nAsk for a design system and it picks a preset, then builds everything: colors, tokens, type scale, elevation, styles the primitives and blocks.\n\nStart with a solid foundation and build something unique. https://t.co/ezBQ1D9FHc",
+  "public_metrics": {
+   "bookmark_count": 4589,
+   "impression_count": 237783,
+   "like_count": 4106,
+   "quote_count": 22,
+   "reply_count": 96,
+   "repost_count": 187
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108574065321512961/img/xMEdbpAf1J-zJ11s.jpg",
+    "duration_ms": 28766,
+    "mp4": "https://video.twimg.com/amplify_video/2108574065321512961/vid/avc1/640x360/AwrvEecDXxnk9_rk.mp4"
+   }
+  ],
+  "category": "App Intro",
+  "description": "shadcn demos the shadcn/ui skills generating a full DESIGN.md design system from a preset: colors, tokens, type scale, elevation, and styled primitives and blocks. Reference for showing a design-system generator end to end.",
+  "derived_tags": [
+   "design-system",
+   "design-tokens",
+   "product-demo"
+  ],
+  "replies_summary": "Interested and practical: the most common question is how it handles an app with an existing visual identity or tokens. One suggestion is to make tokens self-enforcing (fail the build on contrast), and some joke about stakeholder workshops.",
+  "notable_replies": [
+   {
+    "handle": "@buildinothing",
+    "text": "how does it handle a project with an existing visual identity?"
+   },
+   {
+    "handle": "@adityareddydev",
+    "text": "the real test is whether the next screen uses those tokens instead of inventing twelve new shades of gray"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2108531407786242389",
+  "url": "https://x.com/emilkowalski/status/2108531407786242389",
+  "author_username": "emilkowalski",
+  "author_name": "Emil Kowalski",
+  "created_at": "2026-10-09T12:13:56.000Z",
+  "text": "The bigger an animated element is, the slower it should move.\n\nNotice how the hand on the right moves much slower than the cursors on the left. That’s because it feels heavier.\n\nThe same applies to distance. The more an element has to travel, the longer the animation should be. https://t.co/lFDygrDF4u",
+  "public_metrics": {
+   "bookmark_count": 1031,
+   "impression_count": 60445,
+   "like_count": 2377,
+   "quote_count": 13,
+   "reply_count": 46,
+   "repost_count": 49
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108520770905296896/img/RmlbrETnlpaQ8LkP.jpg",
+    "duration_ms": 6033,
+    "mp4": "https://video.twimg.com/amplify_video/2108520770905296896/vid/avc1/630x360/Up2PvWeJ12kw4yWp.mp4"
+   }
+  ],
+  "category": "Animated Website",
+  "description": "Emil Kowalski on a motion-design principle for UI: bigger elements (and longer distances) should animate more slowly because they feel heavier, illustrated with a hand vs. cursors animation. Reference for animation timing on websites and interfaces.",
+  "derived_tags": [
+   "motion-principles",
+   "ui-animation",
+   "easing"
+  ],
+  "replies_summary": "Strong agreement that matching mass/distance to duration is what makes motion 'feel right'. Commenters extend it to static spacing and ask whether to scale duration linearly; motion-school folks note it's a classic principle.",
+  "notable_replies": [
+   {
+    "handle": "@shahbazubair",
+    "text": "Works for static layouts too. The bigger the element, the more room it needs around it.  Same physics, just frozen."
+   },
+   {
+    "handle": "@ys_sen",
+    "text": "this is the kind of detail that separates \"works\" from \"feels right\"."
+   },
+   {
+    "handle": "@rsms",
+    "text": "E=mc²"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2107166904188338534",
+  "url": "https://x.com/jh3yy/status/2107166904188338534",
+  "author_username": "jh3yy",
+  "author_name": "jhey ʕ•ᴥ•ʔ",
+  "created_at": "2026-10-05T17:51:53.000Z",
+  "text": "progressive blur &gt; masked blur 🧑‍🍳\n\nmaskin' jus' fades it, layers can progress it ↓ https://t.co/8dot1FLQeA https://t.co/YceSWaCGyB",
+  "public_metrics": {
+   "bookmark_count": 1757,
+   "impression_count": 71583,
+   "like_count": 2020,
+   "quote_count": 3,
+   "reply_count": 25,
+   "repost_count": 107
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107166725661708288/img/iqOQy2JIEVx0JNDX.jpg",
+    "duration_ms": 21917,
+    "mp4": "https://video.twimg.com/amplify_video/2107166725661708288/vid/avc1/540x540/LDAnHoet5nk1XYqh.mp4"
+   }
+  ],
+  "category": "Animated Website",
+  "description": "Jhey compares progressive (layered) blur with masked blur in CSS, with a visualization of the stacked blur layers. Reference for glassy nav/hero effects on marketing sites.",
+  "derived_tags": [
+   "css",
+   "backdrop-filter",
+   "web-animation"
+  ],
+  "replies_summary": "Admiring ('goated CSS wizard') and appreciative of how the blur layers are visualized. The main concern is performance: stacking blur layers can lag, especially on mobile Safari, which is why masked blur exists. One designer argues for composing images so you don't need blur at all.",
+  "notable_replies": [
+   {
+    "handle": "@lukalotl",
+    "text": "it nukes the perf which is why we invented masked blur."
+   },
+   {
+    "handle": "@paakjong",
+    "text": "i love how you visualized the blur layers"
+   },
+   {
+    "handle": "@abdul_quadir_a",
+    "text": "saving this for the next marketing site with a glass nav"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2111313462987231519",
+  "url": "https://x.com/rauchg/status/2111313462987231519",
+  "author_username": "rauchg",
+  "author_name": "Guillermo Rauch",
+  "created_at": "2026-10-17T04:28:50.000Z",
+  "text": "Rebuilt the Roadster demo in a playable, highly accurate simulation that retains a lot of the IRL details:\nhttps://t.co/6ki8kSJwdP https://t.co/cxd6T88CTc",
+  "public_metrics": {
+   "bookmark_count": 399,
+   "impression_count": 104091,
+   "like_count": 1825,
+   "quote_count": 30,
+   "reply_count": 196,
+   "repost_count": 69
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2111310764036558848/img/gKOdD4jEUhr_Usac.jpg",
+    "duration_ms": 27233,
+    "mp4": "https://video.twimg.com/amplify_video/2111310764036558848/vid/avc1/516x360/5PVrHtGl9dH9v6Fv.mp4"
+   }
+  ],
+  "category": "Animated Website",
+  "description": "Guillermo Rauch rebuilt the Roadster demo as a playable, detailed browser simulation. Reference for an interactive 3D web experience shipped as a single page.",
+  "derived_tags": [
+   "webgl",
+   "3d-web",
+   "interactive"
+  ],
+  "replies_summary": "Playful and impressed ('Incredible', 'crazy good'), with many replies sharing their own browser builds or screen grabs. One notes the flex is a self-contained HTML file with no build step; one asks about mobile load time.",
+  "notable_replies": [
+   {
+    "handle": "@prathamjain33",
+    "text": "One self-contained HTML file is the flex here. No build step, just ships."
+   },
+   {
+    "handle": "@ossderick",
+    "text": "Is it mobile-friendly ? It took very long to load on my device"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2110410655165779985",
+  "url": "https://x.com/shadcn/status/2110410655165779985",
+  "author_username": "shadcn",
+  "author_name": "shadcn",
+  "created_at": "2026-10-14T16:41:24.000Z",
+  "text": "I just published Trace, a new component for agent activity. It's one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc\n\nAlso in this release: Code Block and AI Elements.\n\nhttps://t.co/gWDSPBII1c https://t.co/302yiOO8Lp",
+  "public_metrics": {
+   "bookmark_count": 2877,
+   "impression_count": 172538,
+   "like_count": 4571,
+   "quote_count": 38,
+   "reply_count": 137,
+   "repost_count": 143
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110410297529753600/img/tP8L9vBubLGBz-1w.jpg",
+    "duration_ms": 16666,
+    "mp4": "https://video.twimg.com/amplify_video/2110410297529753600/vid/avc1/484x360/5DIMEtp5c29294U-.mp4"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "shadcn publishes Trace, a component for agent activity that unifies reasoning, tool calls, queues, chain-of-thought and subagents, alongside Code Block and AI Elements. Reference for agent/AI UI patterns and a component launch demo.",
+  "derived_tags": [
+   "ui-components",
+   "ai-ui",
+   "design-system"
+  ],
+  "replies_summary": "Very positive ('Design king', 'been waiting for this'), with builders saying one abstraction for agent activity is overdue because watching an agent work is part of trusting it. Requests include replayable serialized traces and diff views.",
+  "notable_replies": [
+   {
+    "handle": "@PinakCorp",
+    "text": "Watching an agent work is half of trusting it."
+   },
+   {
+    "handle": "@paymentsandbox",
+    "text": "does it emit a serialized trace you can replay?"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2098245666279415955",
+  "url": "https://x.com/VisualCap/status/2098245666279415955",
+  "author_username": "VisualCap",
+  "author_name": "Visual Capitalist",
+  "created_at": "2026-09-11T03:02:05.000Z",
+  "text": "Ranked: 100 Global Cities by Quality of Life and Cost 🌆 \n\nThis graphic by Valerii Emelianov is one of the many incredible data-driven charts and stories from creators featured on our website. ✅\n\nhttps://t.co/CbFdxhJXO9 https://t.co/HRqiSSIrBT",
+  "public_metrics": {
+   "bookmark_count": 400,
+   "impression_count": 154679,
+   "like_count": 640,
+   "quote_count": 43,
+   "reply_count": 83,
+   "repost_count": 130
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HR53MnlXcAQqEqf.jpg",
+    "preview_image_url": null,
+    "duration_ms": null,
+    "mp4": null
+   }
+  ],
+  "category": "Infographic",
+  "description": "Visual Capitalist's 'World's Best and Worst Cities for Value' (by Valerii Emelianov): a quadrant scatter plot of cost-of-living vs. quality-of-life percentiles. The tinted quadrants are labeled Best Value / Premium Life / Budget Living / Bad Value, and the dots are colored by region. A reference for quadrant labeling and making a scatter plot readable at a glance.",
+  "derived_tags": [
+   "ranking-chart",
+   "cities",
+   "data-visualization"
+  ],
+  "replies_summary": "Only a couple of replies came back. Both accept the chart but challenge the data: quality-of-life ratings seem subjective and the city selection looks odd.",
+  "notable_replies": [
+   {
+    "handle": "@Frankus_Maximus",
+    "text": "Really like the chart, but 3 things: 1) Quality of life stats seem quite subjective"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2101446770328748397",
+  "url": "https://x.com/VisualCap/status/2101446770328748397",
+  "author_username": "VisualCap",
+  "author_name": "Visual Capitalist",
+  "created_at": "2026-09-19T23:02:07.000Z",
+  "text": "Ranked: Which Countries Hold the Most U.S. Debt? 💵 \n\nThis graphic by Aneesh Anand is one of the many incredible data-driven charts and stories from creators featured on our @VoronoiApp. ✅\n\nhttps://t.co/srdzUkjZCX https://t.co/gIzEIpHB4V",
+  "public_metrics": {
+   "bookmark_count": 100,
+   "impression_count": 65881,
+   "like_count": 335,
+   "quote_count": 12,
+   "reply_count": 14,
+   "repost_count": 108
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HSnWlWxWEAA_JOa.jpg",
+    "preview_image_url": null,
+    "duration_ms": null,
+    "mp4": null
+   }
+  ],
+  "category": "Infographic",
+  "description": "Visual Capitalist's 'Top 20 Foreign Holders of U.S. Debt' (by Aneesh Anand, made with Voronoi): an editorial horizontal bar chart with flag rows, a serif headline, short callout annotations and a right-hand column of proportional red/teal circles showing annual change. A reference for combining a ranking with a delta column in one table-like chart.",
+  "derived_tags": [
+   "ranking-chart",
+   "finance",
+   "data-visualization"
+  ],
+  "replies_summary": "Discussion centers on data interpretation: custodian countries (Belgium, Cayman Islands) vs. beneficial ownership, the share held domestically, and missing countries (Germany). Several replies praise the annual-change column as just as important as the rank.",
+  "notable_replies": [
+   {
+    "handle": "@Optimas09",
+    "text": "The annual changes column on the right is just as important."
+   },
+   {
+    "handle": "@TSimonts",
+    "text": "I like the chart, but Belgium being a huge custodian (think China, ...) means the $482,5bln doesn't equal beneficial ownership"
+   }
+  ],
+  "gold_standard": false
+ },
+ {
+  "id": "2100737110500053307",
+  "url": "https://x.com/VisualCap/status/2100737110500053307",
+  "author_username": "VisualCap",
+  "author_name": "Visual Capitalist",
+  "created_at": "2026-09-18T00:02:11.000Z",
+  "text": "Ranked: Where Your Money Buys the Best Life in America 💵\n\nThis graphic by Valerii Emelianov is one of the many incredible data-driven charts and stories from creators featured on our website. ✅\n\nhttps://t.co/iYXJQb82wE https://t.co/EPWltS0eUG",
+  "public_metrics": {
+   "bookmark_count": 343,
+   "impression_count": 104854,
+   "like_count": 387,
+   "quote_count": 13,
+   "reply_count": 42,
+   "repost_count": 60
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HSdRJwoWAAAxlxC.jpg",
+    "preview_image_url": null,
+    "duration_ms": null,
+    "mp4": null
+   }
+  ],
+  "category": "Infographic",
+  "description": "Visual Capitalist's 'US cities ranked by quality of life per dollar' (by Valerii Emelianov, Numbeo data): a two-column lollipop/dot ranking of 41 cities, color-coded by region with the top 10 ringed. A reference for a clean, high-density ranking layout on a warm off-white background.",
+  "derived_tags": [
+   "ranking-chart",
+   "cities",
+   "data-visualization"
+  ],
+  "replies_summary": "Largely skeptical and local: many replies dispute the rankings or point to missing cities (Salt Lake City, Pittsburgh, Boise), call it click-bait, or joke about specific cities. Grok replies explain that the source covered only 41 Numbeo cities.",
+  "notable_replies": [
+   {
+    "handle": "@theripsnorter",
+    "text": "15 cities were left out of the 56 from which the data was sourced."
+   },
+   {
+    "handle": "@ThePandoRando",
+    "text": "The more I study Visual Capitalist's graphics, the more I feel being misinformed."
+   }
+  ],
+  "gold_standard": false
+ }
+]

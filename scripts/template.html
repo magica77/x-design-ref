@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Design Refs — X inspiration library</title>
+<style>
+:root{
+  --bg:#f6f6f3;--bg2:#ffffff;--fg:#17171a;--muted:#6b6b73;--line:#e4e4df;--chip:#efefea;--accent:#5b5bd6;
+  --gold:#c99a2e;--gold-bg:#fbf3df;--shadow:0 1px 2px rgba(0,0,0,.04),0 8px 24px rgba(0,0,0,.06);
+  --c-info:#0e9f6e;--c-web:#d6409f;--c-prod:#e5781b;--c-app:#3e63dd;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){
+  --bg:#0f0f12;--bg2:#18181d;--fg:#ececf1;--muted:#9a9aa6;--line:#2a2a32;--chip:#23232a;--accent:#8b8bf5;
+  --gold:#e8b949;--gold-bg:#2b2414;--shadow:0 1px 2px rgba(0,0,0,.3),0 8px 30px rgba(0,0,0,.35);}}
+:root[data-theme=dark]{--bg:#0f0f12;--bg2:#18181d;--fg:#ececf1;--muted:#9a9aa6;--line:#2a2a32;--chip:#23232a;--accent:#8b8bf5;
+  --gold:#e8b949;--gold-bg:#2b2414;--shadow:0 1px 2px rgba(0,0,0,.3),0 8px 30px rgba(0,0,0,.35);}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.5 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Inter,Roboto,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+header{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 86%,transparent);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.wrap{max-width:1360px;margin:0 auto;padding:0 28px}
+.top{display:flex;align-items:center;gap:16px;padding:18px 0 12px}
+.logo{width:34px;height:34px;border-radius:10px;background:linear-gradient(135deg,var(--c-web),var(--accent) 55%,var(--c-info));display:grid;place-items:center;color:#fff;font-weight:800}
+h1{font-size:19px;margin:0;letter-spacing:-.01em}
+.sub{color:var(--muted);font-size:12.5px}
+.spacer{flex:1}
+.search{position:relative}
+.search input{width:330px;padding:9px 12px 9px 34px;border-radius:10px;border:1px solid var(--line);background:var(--bg2);color:var(--fg);font:inherit;outline:none}
+.search input:focus{border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 22%,transparent)}
+.search svg{position:absolute;left:11px;top:50%;transform:translateY(-50%);opacity:.5}
+select,.btn{padding:8px 11px;border-radius:10px;border:1px solid var(--line);background:var(--bg2);color:var(--fg);font:inherit;cursor:pointer}
+.bar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:0 0 12px}
+.seg{display:flex;gap:4px;background:var(--chip);padding:3px;border-radius:11px}
+.seg button{border:0;background:transparent;color:var(--muted);padding:6px 11px;border-radius:8px;font:inherit;font-weight:550;cursor:pointer;display:flex;gap:6px;align-items:center}
+.seg button.on{background:var(--bg2);color:var(--fg);box-shadow:0 1px 3px rgba(0,0,0,.12)}
+.seg .n{font-size:11px;opacity:.65}
+.dot{width:8px;height:8px;border-radius:50%}
+.tags{display:flex;flex-wrap:wrap;gap:6px;padding:0 0 14px;max-height:84px;overflow:auto}
+.chip{border:1px solid var(--line);background:var(--bg2);color:var(--fg);padding:3px 9px;border-radius:999px;font-size:12px;cursor:pointer;white-space:nowrap}
+.chip .n{color:var(--muted);margin-left:4px;font-size:11px}
+.chip.derived{border-style:dashed}
+.chip.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.chip.on .n{color:inherit;opacity:.7}
+main{padding:22px 0 60px}
+.meta-line{color:var(--muted);font-size:12.5px;margin-bottom:14px;display:flex;gap:10px;align-items:center}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
+.card{background:var(--bg2);border:1px solid var(--line);border-radius:16px;overflow:hidden;cursor:pointer;display:flex;flex-direction:column;transition:transform .18s ease,box-shadow .18s ease,border-color .18s}
+.card:hover{transform:translateY(-3px);box-shadow:var(--shadow);border-color:color-mix(in srgb,var(--accent) 35%,var(--line))}
+.thumb{position:relative;aspect-ratio:16/10;background:var(--chip);overflow:hidden}
+.thumb img{width:100%;height:100%;object-fit:cover;object-position:top;display:block;transition:transform .4s ease}
+.card:hover .thumb img{transform:scale(1.03)}
+.badge{position:absolute;top:10px;left:10px;font-size:11px;font-weight:650;padding:3px 8px;border-radius:7px;color:#fff;letter-spacing:.01em}
+.mt{position:absolute;bottom:10px;right:10px;font-size:11px;padding:2px 7px;border-radius:6px;background:rgba(0,0,0,.6);color:#fff}
+.gold-ribbon{position:absolute;top:10px;right:10px;background:var(--gold);color:#1b1405;font-size:11px;font-weight:750;padding:3px 9px;border-radius:7px;box-shadow:0 2px 10px rgba(201,154,46,.45)}
+.card.gold{border:1.5px solid var(--gold);box-shadow:0 0 0 4px color-mix(in srgb,var(--gold) 16%,transparent)}
+.card.gold .body{background:linear-gradient(180deg,var(--gold-bg),var(--bg2) 70%)}
+.body{padding:13px 15px 14px;display:flex;flex-direction:column;gap:8px;flex:1}
+.author{display:flex;align-items:center;gap:8px;font-size:13px}
+.av{width:24px;height:24px;border-radius:50%;display:grid;place-items:center;font-size:11px;font-weight:700;color:#fff;flex:none}
+.author b{font-weight:650;white-space:nowrap}.author span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.author span{color:var(--muted)}
+.desc{color:var(--fg);opacity:.86;font-size:13px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.ctags{display:flex;flex-wrap:wrap;gap:5px}
+.ctags span{font-size:11px;color:var(--muted);background:var(--chip);padding:1px 7px;border-radius:999px}
+.ctags span.derived{background:transparent;border:1px dashed var(--line)}
+.stats{display:flex;gap:14px;font-size:12px;color:var(--muted);margin-top:auto;padding-top:4px;border-top:1px solid var(--line);padding-top:9px}
+.stats b{color:var(--fg);font-weight:650}
+.empty{padding:80px 0;text-align:center;color:var(--muted)}
+/* modal */
+.ov{position:fixed;inset:0;background:rgba(8,8,12,.62);backdrop-filter:blur(4px);display:none;z-index:20;padding:3vh 3vw}
+.ov.open{display:flex;align-items:center;justify-content:center;animation:fade .15s ease}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.modal{background:var(--bg2);border:1px solid var(--line);border-radius:18px;width:min(1180px,100%);max-height:94vh;display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);overflow:hidden;box-shadow:0 30px 80px rgba(0,0,0,.4)}
+.shot{background:var(--chip);overflow:auto;padding:22px;display:flex;flex-direction:column;gap:12px;align-items:center}
+.shot img{max-width:100%;border-radius:12px;box-shadow:var(--shadow);background:#fff}
+.shot .cap{font-size:11px;color:var(--muted)}
+.info{padding:24px 26px;overflow:auto;display:flex;flex-direction:column;gap:16px}
+.info h2{margin:0;font-size:18px;letter-spacing:-.01em;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.pill{font-size:11px;font-weight:650;padding:3px 8px;border-radius:7px;color:#fff}
+.goldpill{background:var(--gold);color:#1b1405}
+.sect h3{margin:0 0 6px;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.sect p{margin:0}
+.posttext{white-space:pre-wrap;background:var(--chip);border-radius:10px;padding:10px 12px;font-size:13px}
+.mgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.m{background:var(--chip);border-radius:10px;padding:8px 10px}
+.m b{display:block;font-size:16px}.m span{font-size:11px;color:var(--muted)}
+.quote{border-left:3px solid var(--accent);padding:4px 0 4px 11px;margin:0 0 8px;font-size:13px}
+.quote cite{display:block;font-style:normal;color:var(--muted);font-size:12px;margin-top:2px}
+.actions{display:flex;gap:8px;align-items:center}
+.primary{background:var(--fg);color:var(--bg);border:0;padding:9px 14px;border-radius:10px;text-decoration:none;font-weight:650}
+.x{position:absolute;top:14px;right:16px;font-size:20px;background:var(--bg2);border:1px solid var(--line);color:var(--fg);width:36px;height:36px;border-radius:50%;cursor:pointer}
+.nav{margin-left:auto;display:flex;gap:6px}
+@media (max-width:860px){.modal{grid-template-columns:1fr}.search input{width:180px}.shot{max-height:45vh}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <div class="top">
+    <div class="logo">✦</div>
+    <div><h1>Design Refs</h1><div class="sub" id="sub"></div></div>
+    <div class="spacer"></div>
+    <label class="search"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" placeholder="Search posts, authors, tags…  ( / )" autocomplete="off"></label>
+    <select id="sort" title="Sort">
+      <option value="impressions">Most impressions</option>
+      <option value="likes">Most likes</option>
+      <option value="bookmarks">Most bookmarks</option>
+      <option value="date">Newest</option>
+      <option value="collected">Recently collected</option>
+    </select>
+    <button class="btn" id="theme" title="Toggle theme">◐</button>
+  </div>
+  <div class="bar"><div class="seg" id="cats"></div></div>
+  <div class="tags" id="tags"></div>
+</div></header>
+<main class="wrap">
+  <div class="meta-line" id="count"></div>
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" hidden>No references match these filters.</div>
+</main>
+<div class="ov" id="ov"><div class="modal" id="modal" style="position:relative"></div></div>
+<script>
+const DATA = /*__DATA__*/null;
+const REFS = DATA.refs;
+const CATS = {"Infographic":"var(--c-info)","Animated Website":"var(--c-web)","Product Intro":"var(--c-prod)","App Intro":"var(--c-app)"};
+const S = {cat:"All", tags:new Set(), q:"", sort:"impressions"};
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmt = n => n>=1e6 ? (n/1e6).toFixed(n>=1e7?0:1)+"M" : n>=1e3 ? (n/1e3).toFixed(n>=1e4?0:1)+"K" : String(n);
+const dfmt = s => new Date(s).toLocaleDateString(undefined,{year:"numeric",month:"short",day:"numeric"});
+const allTags = e => [...e.tags.map(t=>({t,d:false})), ...(e.derived_tags||[]).map(t=>({t,d:true}))];
+const hue = s => { let h=0; for (const c of s) h=(h*31+c.charCodeAt(0))%360; return h; };
+const img = e => e.thumbnail || e.screenshot || "";
+
+function filtered(ignoreTags=false){
+  const q = S.q.trim().toLowerCase();
+  return REFS.filter(e =>
+    (S.cat==="All" || e.category===S.cat) &&
+    (ignoreTags || [...S.tags].every(t => allTags(e).some(x=>x.t===t))) &&
+    (!q || [e.text,e.description,e.author.handle,e.author.name,e.category,e.replies_summary,...allTags(e).map(x=>x.t)].join(" ").toLowerCase().includes(q)));
+}
+function sorted(list){
+  const k = S.sort, m = e => e.metrics;
+  const f = {impressions:e=>m(e).impressions, likes:e=>m(e).likes, bookmarks:e=>m(e).bookmarks,
+             date:e=>+new Date(e.created_at), collected:e=>+new Date(e.collected_at)}[k];
+  return [...list].sort((a,b) => (b.gold_standard-a.gold_standard) || f(b)-f(a));
+}
+function renderCats(){
+  const base = REFS.filter(e => !S.q || filtered(true).includes(e));
+  const counts = {All:base.length}; for (const e of base) counts[e.category]=(counts[e.category]||0)+1;
+  $("#cats").innerHTML = ["All",...Object.keys(CATS)].map(c =>
+    `<button class="${S.cat===c?"on":""}" data-c="${esc(c)}">${c!=="All"?`<i class="dot" style="background:${CATS[c]}"></i>`:""}${esc(c)}<span class="n">${counts[c]||0}</span></button>`).join("");
+}
+function renderTags(){
+  const m = new Map();
+  for (const e of filtered(true)) for (const {t,d} of allTags(e)) { const o=m.get(t)||{n:0,d}; o.n++; o.d=o.d&&d; m.set(t,o); }
+  for (const t of S.tags) if(!m.has(t)) m.set(t,{n:0,d:false});
+  const arr = [...m].sort((a,b)=>b[1].n-a[1].n||a[0].localeCompare(b[0]));
+  $("#tags").innerHTML = arr.map(([t,o]) =>
+    `<button class="chip ${o.d?"derived":""} ${S.tags.has(t)?"on":""}" data-t="${esc(t)}" title="${o.d?"derived tag (post had no hashtags)":"X hashtag"}">${o.d?"":"#"}${esc(t)}<span class="n">${o.n}</span></button>`).join("")
+    + (S.tags.size?`<button class="chip" data-clear="1">✕ clear tags</button>`:"");
+}
+function card(e){
+  const c = CATS[e.category];
+  return `<article class="card ${e.gold_standard?"gold":""}" data-id="${e.id}" tabindex="0">
+    <div class="thumb">${img(e)?`<img loading="lazy" src="${esc(img(e))}" alt="">`:""}
+      <span class="badge" style="background:${c}">${esc(e.category)}</span>
+      ${e.gold_standard?`<span class="gold-ribbon">★ Gold standard</span>`:""}
+      <span class="mt">${e.media_type==="video"?"▶ video":e.media_type==="gif"?"GIF":"▣ image"}</span></div>
+    <div class="body">
+      <div class="author"><span class="av" style="background:hsl(${hue(e.author.handle)} 55% 48%)">${esc(e.author.name[0]||"?")}</span>
+        <b>${esc(e.author.name)}</b><span>@${esc(e.author.handle)} · ${dfmt(e.created_at)}</span></div>
+      <div class="desc">${esc(e.description)}</div>
+      <div class="ctags">${allTags(e).map(x=>`<span class="${x.d?"derived":""}">${x.d?"":"#"}${esc(x.t)}</span>`).join("")}</div>
+      <div class="stats"><span>👁 <b>${fmt(e.metrics.impressions)}</b></span><span>♥ <b>${fmt(e.metrics.likes)}</b></span><span>🔖 <b>${fmt(e.metrics.bookmarks)}</b></span><span>💬 <b>${fmt(e.metrics.replies)}</b></span></div>
+    </div></article>`;
+}
+let current = [];
+function render(){
+  renderCats(); renderTags();
+  current = sorted(filtered());
+  $("#grid").innerHTML = current.map(card).join("");
+  $("#empty").hidden = current.length>0;
+  $("#count").textContent = `${current.length} of ${REFS.length} references` + (S.tags.size?` · tags: ${[...S.tags].join(", ")}`:"");
+}
+function openDetail(id){
+  const i = current.findIndex(e=>e.id===id); const e = current[i] || REFS.find(x=>x.id===id); if(!e) return;
+  const m = e.metrics;
+  $("#modal").innerHTML = `<button class="x" id="close" title="Close (Esc)">×</button>
+   <div class="shot">${e.screenshot?`<img src="${esc(e.screenshot)}" alt="Screenshot of post"><div class="cap">Post screenshot (${esc(e.screenshot_method||"")})</div>`:`<div class="cap">No screenshot captured</div>`}
+     ${e.thumbnail?`<img src="${esc(e.thumbnail)}" alt="Media frame"><div class="cap">${e.media_type==="video"?"Frame from the video":"Attached media"}</div>`:""}</div>
+   <div class="info">
+     <h2><span class="pill" style="background:${CATS[e.category]}">${esc(e.category)}</span>${e.gold_standard?`<span class="pill goldpill">★ Gold standard example</span>`:""}</h2>
+     <div class="author" style="font-size:14px"><span class="av" style="width:32px;height:32px;background:hsl(${hue(e.author.handle)} 55% 48%)">${esc(e.author.name[0])}</span>
+       <div><b>${esc(e.author.name)}</b> <span>@${esc(e.author.handle)}</span><div class="sub">Posted ${dfmt(e.created_at)} · collected ${dfmt(e.collected_at)} · ${esc(e.media_type)}</div></div></div>
+     <div class="sect"><h3>Why it's a reference</h3><p>${esc(e.description)}</p></div>
+     <div class="sect"><h3>Post text</h3><div class="posttext">${esc(e.text)}</div></div>
+     <div class="sect"><h3>Metrics</h3><div class="mgrid">
+       ${[["impressions","Impressions"],["likes","Likes"],["reposts","Reposts"],["replies","Replies"],["quotes","Quotes"],["bookmarks","Bookmarks"]].map(([k,l])=>`<div class="m"><b>${m[k].toLocaleString()}</b><span>${l}</span></div>`).join("")}</div>
+       <div class="sub" style="margin-top:6px">as of ${dfmt(e.metrics_updated_at||e.collected_at)}</div></div>
+     <div class="sect"><h3>What people said</h3><p>${esc(e.replies_summary)}</p></div>
+     ${e.notable_replies.length?`<div class="sect"><h3>Notable replies</h3>${e.notable_replies.map(r=>`<blockquote class="quote">“${esc(r.text)}”<cite>${esc(r.handle)}</cite></blockquote>`).join("")}</div>`:""}
+     <div class="sect"><h3>Tags</h3><div class="ctags">${allTags(e).map(x=>`<span class="${x.d?"derived":""}">${x.d?"":"#"}${esc(x.t)}</span>`).join("") || "<span>none</span>"}</div>
+       ${e.derived_tags?.length?`<div class="sub" style="margin-top:4px">Dashed tags are derived (the post has no hashtags).</div>`:""}</div>
+     <div class="actions"><a class="primary" href="${esc(e.url)}" target="_blank" rel="noopener">Open on X ↗</a>
+       <div class="nav"><button class="btn" id="prev" ${i<=0?"disabled":""}>←</button><button class="btn" id="next" ${i<0||i>=current.length-1?"disabled":""}>→</button></div></div>
+   </div>`;
+  $("#ov").classList.add("open"); history.replaceState(null,"","#"+e.id);
+  $("#close").onclick = closeDetail;
+  $("#prev").onclick = () => i>0 && openDetail(current[i-1].id);
+  $("#next").onclick = () => i<current.length-1 && openDetail(current[i+1].id);
+}
+function closeDetail(){ $("#ov").classList.remove("open"); history.replaceState(null,"",location.pathname); }
+
+$("#sub").textContent = `${REFS.length} references from X · infographics, animated websites, product & app intros` + (DATA.last_run?` · updated ${dfmt(DATA.last_run)}`:"");
+$("#cats").onclick = ev => { const b=ev.target.closest("button"); if(b){ S.cat=b.dataset.c; render(); } };
+$("#tags").onclick = ev => { const b=ev.target.closest("button"); if(!b) return; if(b.dataset.clear) S.tags.clear(); else { const t=b.dataset.t; S.tags.has(t)?S.tags.delete(t):S.tags.add(t); } render(); };
+$("#q").oninput = ev => { S.q=ev.target.value; render(); };
+$("#sort").onchange = ev => { S.sort=ev.target.value; render(); };
+$("#grid").onclick = ev => { const c=ev.target.closest(".card"); if(c) openDetail(c.dataset.id); };
+$("#grid").onkeydown = ev => { if(ev.key==="Enter"){ const c=ev.target.closest(".card"); if(c) openDetail(c.dataset.id); } };
+$("#ov").onclick = ev => { if(ev.target.id==="ov") closeDetail(); };
+$("#theme").onclick = () => { const r=document.documentElement; const dark = r.dataset.theme ? r.dataset.theme==="dark" : matchMedia("(prefers-color-scheme: dark)").matches; r.dataset.theme = dark?"light":"dark"; localStorage.setItem("dr-theme", r.dataset.theme); };
+if (localStorage.getItem("dr-theme")) document.documentElement.dataset.theme = localStorage.getItem("dr-theme");
+document.addEventListener("keydown", ev => {
+  if (ev.key==="/" && document.activeElement!==$("#q")) { ev.preventDefault(); $("#q").focus(); }
+  if (!$("#ov").classList.contains("open")) return;
+  if (ev.key==="Escape") closeDetail();
+  if (ev.key==="ArrowRight") $("#next")?.click();
+  if (ev.key==="ArrowLeft") $("#prev")?.click();
+});
+render();
+if (location.hash.length>1) openDetail(location.hash.slice(1));
+</script>
+</body>
+</html>
