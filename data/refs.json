@@ -61,6 +61,59 @@
   "thumbnail": "thumbs/2108249557519970369.jpg"
  },
  {
+  "id": "2111515160766550057",
+  "url": "https://x.com/github/status/2111515160766550057",
+  "author": {
+   "handle": "github",
+   "name": "GitHub"
+  },
+  "created_at": "2026-10-17T17:50:19.000Z",
+  "collected_at": "2026-10-19T01:17:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "hardware",
+   "product-film",
+   "copilot"
+  ],
+  "description": "GitHub's product film for the Logitech MX Keypad integrated with the GitHub Copilot app, showing physical keys mapped to agent prompts and sessions. A reference for a hardware-meets-software intro that sells a workflow rather than specs.",
+  "text": "Your workflows have changed with AI. How about your setup?\n\nPhysical controls are back. Take the new Logitech MX Keypad, now directly integrated with the GitHub Copilot app.\n\nThis experience allows you to run agentic workflows with control, map a repeated prompt, start or resume a session, and help you stay in flow.\nhttps://t.co/zbcYD8xQKf",
+  "metrics": {
+   "impressions": 86846,
+   "likes": 479,
+   "reposts": 52,
+   "replies": 53,
+   "quotes": 10,
+   "bookmarks": 149
+  },
+  "metrics_updated_at": "2026-10-19T01:17:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/media/HU2b2NtWoAAF01q.jpg",
+    "duration_ms": 58766,
+    "mp4": "https://video.twimg.com/amplify_video/2111515086783213568/vid/avc1/640x360/fzK39hbjy3uSlTsf.mp4?tag=16"
+   }
+  ],
+  "replies_summary": "The design-relevant replies like the idea of mapping a repeated prompt to a physical key, and several ask for approve, stop or pause buttons for agent runs. One jokes about spending 20 years removing buttons only to buy keypads again; the rest of the thread is account-suspension complaints unrelated to the post.",
+  "notable_replies": [
+   {
+    "handle": "@Vidur2302",
+    "text": "Mapping a repeated prompt to a physical key is a smart touch. So much agent work right now is typing the same \"run the tests and fix what fails\" line again and again."
+   },
+   {
+    "handle": "@therealhacker97",
+    "text": "we spent 20 years removing buttons from everything and now we're buying keypads to talk to the AI. progress"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2111515160766550057.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2111515160766550057.jpg"
+ },
+ {
   "id": "2111313462987231519",
   "url": "https://x.com/rauchg/status/2111313462987231519",
   "author": {
@@ -112,6 +165,55 @@
   "screenshot": "shots/2111313462987231519.png",
   "screenshot_method": "embed",
   "thumbnail": "thumbs/2111313462987231519.jpg"
+ },
+ {
+  "id": "2111238288799322159",
+  "url": "https://x.com/simongerman600/status/2111238288799322159",
+  "author": {
+   "handle": "simongerman600",
+   "name": "Simon Kuestenmacher"
+  },
+  "created_at": "2026-10-16T23:30:07.000Z",
+  "collected_at": "2026-10-19T01:17:03Z",
+  "category": "Infographic",
+  "tags": [],
+  "derived_tags": [
+   "map",
+   "dataviz",
+   "migration"
+  ],
+  "description": "A vintage-styled, Minard-inspired flow map of net moves between US states, with band widths for each corridor, a top-10 corridor table and a Northeast inset. A reference for an editorial flow map that tells one clear story (California and New York out, Florida and Texas in) at a glance.",
+  "text": "Americans are moving south! This fascinating map shows the biggest interstate migration flows between 2021 and 2025. California is losing residents to Texas, Arizona and Nevada, while New Yorkers are heading to Florida and New Jersey. Florida and Texas are the big winners. https://t.co/C84I93nE2Z",
+  "metrics": {
+   "impressions": 61280,
+   "likes": 209,
+   "reposts": 44,
+   "replies": 40,
+   "quotes": 10,
+   "bookmarks": 48
+  },
+  "metrics_updated_at": "2026-10-19T01:17:03Z",
+  "media_type": "image",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HUygCP0WQAAuM69.jpg",
+    "preview_image_url": null,
+    "duration_ms": null,
+    "mp4": null
+   }
+  ],
+  "replies_summary": "Replies are almost entirely partisan arguments about why people are moving, with little comment on the map itself. One reply jokes that people are moving straight to where it's getting hotter.",
+  "notable_replies": [
+   {
+    "handle": "@xtuffai",
+    "text": "Which is weird because they are moving straight to where it is getting hotter."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2111238288799322159.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2111238288799322159.jpg"
  },
  {
   "id": "2111193957527146711",
@@ -169,6 +271,59 @@
   "screenshot": "shots/2111193957527146711.png",
   "screenshot_method": "embed",
   "thumbnail": "thumbs/2111193957527146711.jpg"
+ },
+ {
+  "id": "2111064794115547404",
+  "url": "https://x.com/simongerman600/status/2111064794115547404",
+  "author": {
+   "handle": "simongerman600",
+   "name": "Simon Kuestenmacher"
+  },
+  "created_at": "2026-10-16T12:00:43.000Z",
+  "collected_at": "2026-10-19T01:17:03Z",
+  "category": "Infographic",
+  "tags": [],
+  "derived_tags": [
+   "dataviz",
+   "chart",
+   "education-data"
+  ],
+  "description": "A chart of PISA scores comparing first- and second-generation migrant kids with children of locals across countries, with Australia standing out. A reference for a dense comparative chart with confidence intervals that invites close reading.",
+  "text": "In migration-nations (countries that deliberately import worker that are more educated that locals) first and second generation migrant kids record higher PISA scores that the kids of locals. In Australia the trend is particularly strong. To me this is just one variation of https://t.co/vplsOrVbkH",
+  "metrics": {
+   "impressions": 65892,
+   "likes": 470,
+   "reposts": 138,
+   "replies": 44,
+   "quotes": 31,
+   "bookmarks": 223
+  },
+  "metrics_updated_at": "2026-10-19T01:17:03Z",
+  "media_type": "image",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HUwCPh-WIAAbbft.jpg",
+    "preview_image_url": null,
+    "duration_ms": null,
+    "mp4": null
+   }
+  ],
+  "replies_summary": "The thread quickly becomes a debate about immigration and what drives the gap, with many saying the data should be split by migrants' country of origin. On the chart itself, one reply asks why the confidence interval is so much wider for the US and another adds regional gaps within Spain.",
+  "notable_replies": [
+   {
+    "handle": "@AleksandrN79427",
+    "text": "Why is CI like, 5x wider in the US, making the stat almost meaningless?"
+   },
+   {
+    "handle": "@CancellationCh1",
+    "text": "Now disaggregate migrants by country from which they migrate"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2111064794115547404.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2111064794115547404.jpg"
  },
  {
   "id": "2110857277494169647",
@@ -281,6 +436,59 @@
   "thumbnail": "thumbs/2110853125389029437.jpg"
  },
  {
+  "id": "2110841898076418336",
+  "url": "https://x.com/OpenAI/status/2110841898076418336",
+  "author": {
+   "handle": "OpenAI",
+   "name": "OpenAI"
+  },
+  "created_at": "2026-10-15T21:15:00.000Z",
+  "collected_at": "2026-10-19T01:17:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "ai-science",
+   "short-teaser",
+   "brand-video"
+  ],
+  "description": "OpenAI's 6-second teaser for the GPT-Rosalind Academic Plan, aimed at university biology labs. A reference for an ultra-short brand clip that carries a niche, research-focused announcement.",
+  "text": "We're expanding access to GPT-Rosalind for academic research.\n\nThe new Rosalind Academic Plan helps scientific labs bring AI into the work of understanding biology, exploring ideas, and deciding what to test next—with sponsored access for eligible labs at U.S. universities.\n\nAcademic research starts with questions whose impact may take years to impact human health.",
+  "metrics": {
+   "impressions": 371382,
+   "likes": 3262,
+   "reposts": 297,
+   "replies": 319,
+   "quotes": 106,
+   "bookmarks": 589
+  },
+  "metrics_updated_at": "2026-10-19T01:17:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110841872742858752/img/afsUfyxpTzvudLuz.jpg",
+    "duration_ms": 6041,
+    "mp4": "https://video.twimg.com/amplify_video/2110841872742858752/vid/avc1/640x360/pxJ5-krxw0p_1m9c.mp4"
+   }
+  ],
+  "replies_summary": "Replies are broadly supportive of using AI to speed up biology research, several in Chinese noting the right split is human expert judgment plus AI reasoning across literature and data. One reply points out that trust from lab staff is the real hurdle; a chunk of the thread is off-topic chatter with Grok.",
+  "notable_replies": [
+   {
+    "handle": "@kadenfhq43",
+    "text": "Free access is great. The hard part is never the model, it's the lab tech who has to trust it."
+   },
+   {
+    "handle": "@theazeeztech",
+    "text": "AI’s biggest impact may come from accelerating discoveries we haven’t made yet."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2110841898076418336.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2110841898076418336.jpg"
+ },
+ {
   "id": "2110808586389766404",
   "url": "https://x.com/vercel/status/2110808586389766404",
   "author": {
@@ -391,6 +599,59 @@
   "thumbnail": "thumbs/2110797830361436604.jpg"
  },
  {
+  "id": "2110793639727358422",
+  "url": "https://x.com/perplexity_ai/status/2110793639727358422",
+  "author": {
+   "handle": "perplexity_ai",
+   "name": "Perplexity"
+  },
+  "created_at": "2026-10-15T18:03:15.000Z",
+  "collected_at": "2026-10-19T01:17:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "model-launch",
+   "short-teaser",
+   "ai-search"
+  ],
+  "description": "Perplexity's 12-second clip announcing NVIDIA's Nemotron 3.5 Super VL in Perplexity and the Agent API. A reference for a quick partner-model availability announcement in a consistent brand look.",
+  "text": "NVIDIA’s Nemotron 3.5 Super VL is now available in Perplexity for Pro and Max subscribers, and in Agent API. https://t.co/fMVGtyZFFQ",
+  "metrics": {
+   "impressions": 67211,
+   "likes": 304,
+   "reposts": 17,
+   "replies": 21,
+   "quotes": 8,
+   "bookmarks": 29
+  },
+  "metrics_updated_at": "2026-10-19T01:17:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110793610962821120/img/prjLnJl6ktE9IJJk.jpg",
+    "duration_ms": 12066,
+    "mp4": "https://video.twimg.com/amplify_video/2110793610962821120/vid/avc1/640x360/FwbgxGoi_xweq3Xm.mp4?tag=16"
+   }
+  ],
+  "replies_summary": "Replies frame it as a distribution play for NVIDIA and are curious about vision use cases like documents and screenshots. Some question why Pro users need it or how it compares on latency, and a few say the model menu keeps getting longer.",
+  "notable_replies": [
+   {
+    "handle": "@Nora_On_AI",
+    "text": "nvidia dropping a model inside perplexity instead of just on hugging face is the bigger story here, feels like a distribution play more than a research flex"
+   },
+   {
+    "handle": "@Iris97w",
+    "text": "more vision models in the mix is great, haha the model menu keeps getting longer"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2110793639727358422.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2110793639727358422.jpg"
+ },
+ {
   "id": "2110792992697078075",
   "url": "https://x.com/VisualCap/status/2110792992697078075",
   "author": {
@@ -444,6 +705,112 @@
   "thumbnail": "thumbs/2110792992697078075.jpg"
  },
  {
+  "id": "2110788459803938944",
+  "url": "https://x.com/vercel/status/2110788459803938944",
+  "author": {
+   "handle": "vercel",
+   "name": "Vercel"
+  },
+  "created_at": "2026-10-15T17:42:40.000Z",
+  "collected_at": "2026-10-19T01:17:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "developer-tools",
+   "feature-launch",
+   "ai-agents"
+  ],
+  "description": "Vercel's 22-second announcement that Vercel Drives is generally available for stateful agents, with a one-line caption. A reference for a short, focused feature-GA video in Vercel's minimal style.",
+  "text": "Vercel Drives is generally available. You can now run stateful agents on Vercel.\n\nhttps://t.co/tbogIYouct https://t.co/etKyIfIQr4",
+  "metrics": {
+   "impressions": 84944,
+   "likes": 656,
+   "reposts": 40,
+   "replies": 52,
+   "quotes": 26,
+   "bookmarks": 247
+  },
+  "metrics_updated_at": "2026-10-19T01:17:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110788429055410176/img/Ihdyq20u8QnzT6yH.jpg",
+    "duration_ms": 21700,
+    "mp4": "https://video.twimg.com/amplify_video/2110788429055410176/vid/avc1/640x360/WK_ztYORmWl3M4EM.mp4?tag=16"
+   }
+  ],
+  "replies_summary": "Developers welcome persistent state for agents, saying stateless agents are just chat with extra steps. Most replies are technical follow-ups about recovery, concurrent writes to the same checkpoint, and access controls.",
+  "notable_replies": [
+   {
+    "handle": "@ravixalgorithm",
+    "text": "stateless was the easy half. agents that forget between runs aren't agents, they're chat with extra steps"
+   },
+   {
+    "handle": "@SMishra61",
+    "text": "the test i'd immediately throw at a stateful agent is killing it halfway through a tool call. persisting files is one piece, but recovering without replaying a side effect twice is where i'd expect the more painful bugs."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2110788459803938944.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2110788459803938944.jpg"
+ },
+ {
+  "id": "2110786348131258456",
+  "url": "https://x.com/vercel/status/2110786348131258456",
+  "author": {
+   "handle": "vercel",
+   "name": "Vercel"
+  },
+  "created_at": "2026-10-15T17:34:16.000Z",
+  "collected_at": "2026-10-19T01:17:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "developer-tools",
+   "feature-launch",
+   "motion-graphics"
+  ],
+  "description": "Vercel's 12-second launch clip for running backends on Vercel (Python GA, containers, daemons), paired with a tight three-bullet caption. A reference for a minimal, on-brand dev-tool feature announcement.",
+  "text": "Run your backend on Vercel.\n\n• Python is generally available\n• Containers for other runtimes &amp; system libraries\n• Daemons for async jobs &amp; background workers\n\nhttps://t.co/spPCQWUaWc https://t.co/H1lvSQE81d",
+  "metrics": {
+   "impressions": 121540,
+   "likes": 974,
+   "reposts": 67,
+   "replies": 55,
+   "quotes": 42,
+   "bookmarks": 268
+  },
+  "metrics_updated_at": "2026-10-19T01:17:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110786322348867584/img/JkFlHQMD3lj30HLV.jpg",
+    "duration_ms": 12078,
+    "mp4": "https://video.twimg.com/amplify_video/2110786322348867584/vid/avc1/640x360/gotTbtDcpBTT773i.mp4?tag=16"
+   }
+  ],
+  "replies_summary": "Developers are mostly positive: Python GA is called a big deal for AI backends living next to the frontend, and daemons are called the unlock for watcher loops. Others ask practical questions about deploy behavior for long-running workers, and a few gripe about pricing or ask Vercel to buy Railway.",
+  "notable_replies": [
+   {
+    "handle": "@justmetolife",
+    "text": "python being generally available is a big one. most ai backends are written in it, so they can now live right next to the frontend"
+   },
+   {
+    "handle": "@alertshelfkn",
+    "text": "Daemons for async jobs is the unlock. A watcher loop without a daemon was always the awkward part. Verifying the free tier limits before I move anything."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2110786348131258456.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2110786348131258456.jpg"
+ },
+ {
   "id": "2110768162811867608",
   "url": "https://x.com/screenstudio/status/2110768162811867608",
   "author": {
@@ -495,6 +862,116 @@
   "screenshot": "shots/2110768162811867608.png",
   "screenshot_method": "embed",
   "thumbnail": "thumbs/2110768162811867608.jpg"
+ },
+ {
+  "id": "2110743785315410262",
+  "url": "https://x.com/Mastercard/status/2110743785315410262",
+  "author": {
+   "handle": "Mastercard",
+   "name": "Mastercard"
+  },
+  "created_at": "2026-10-15T14:45:08.000Z",
+  "collected_at": "2026-10-19T01:17:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "fintech",
+   "payments",
+   "brand-video"
+  ],
+  "description": "Mastercard's 66-second launch film for the Global Money Platform with BVNK (stablecoin payments, payouts, cards and multi-currency accounts via one integration). A reference for how a large brand explains a complex multi-product platform in one polished video.",
+  "text": "Today, we're launching Mastercard Global Money Platform with @BVNKFinance, enabling banks, fintechs, and enterprises to offer stablecoin payments, local bank payouts, spend stablecoin-linked cards, and multi-currency accounts through a single integration. Learn more: https://t.co/KcGwXFRMup",
+  "metrics": {
+   "impressions": 109445,
+   "likes": 1887,
+   "reposts": 418,
+   "replies": 110,
+   "quotes": 92,
+   "bookmarks": 256
+  },
+  "metrics_updated_at": "2026-10-19T01:17:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110743591941193728/img/i_qg-uaSCxTNBqGX.jpg",
+    "duration_ms": 66133,
+    "mp4": "https://video.twimg.com/amplify_video/2110743591941193728/vid/avc1/640x360/3rQD2eKBr_oPqmk8.mp4"
+   }
+  ],
+  "replies_summary": "Replies are largely from payments and crypto-adjacent accounts calling stablecoin payouts at card-network scale the quiet headline of the year. A few raise practical questions, such as what happens when the onchain leg succeeds but the bank payout fails, and one notes the extra fee lines to read through.",
+  "notable_replies": [
+   {
+    "handle": "@SinaEstavi",
+    "text": "Stablecoin payouts at Mastercard scale is the boring headline that matters most this year. The rails fight is ending. Now it's about who builds the best apps on top."
+   },
+   {
+    "handle": "@0xspiked",
+    "text": "what happens when the onchain leg succeeds but the local bank payout gets rejected? is the return path handled inside the same integration?"
+   },
+   {
+    "handle": "@kranthi95223317",
+    "text": "One integration, four products, and a whole new set of fee lines to read through."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2110743785315410262.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2110743785315410262.jpg"
+ },
+ {
+  "id": "2110618179982749940",
+  "url": "https://x.com/figma/status/2110618179982749940",
+  "author": {
+   "handle": "figma",
+   "name": "Figma"
+  },
+  "created_at": "2026-10-15T06:26:02.000Z",
+  "collected_at": "2026-10-19T01:17:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "config",
+   "design-tools",
+   "launch-recap"
+  ],
+  "description": "Figma's 50-second Config India recap introducing Code Layers, Specs, Guidelines, Code Sources and Payload in one cut. A good reference for packing a multi-feature keynote announcement into a single paced launch video with an arrow-list caption.",
+  "text": "Today at Config India, we announced new ways of building in Figma\n\n→ Collab with code on the canvas with Code Layers (open beta) \n→ Shape and share context with Specs (open beta) \n→ Give your agent more design system context with Guidelines (open beta) and Code Sources (closed beta)\n→ Ship websites with Payload (rolling out in the coming weeks)",
+  "metrics": {
+   "impressions": 5315561,
+   "likes": 804,
+   "reposts": 61,
+   "replies": 36,
+   "quotes": 32,
+   "bookmarks": 138
+  },
+  "metrics_updated_at": "2026-10-19T01:17:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110617950222979073/img/SPi3-2DxBI9oBkU5.jpg",
+    "duration_ms": 50000,
+    "mp4": "https://video.twimg.com/amplify_video/2110617950222979073/vid/avc1/640x360/1xxhx2OsWpCbjq4o.mp4"
+   }
+  ],
+  "replies_summary": "Most top replies are off-topic (spam, link drops, unrelated asks), with a handful of short positive takes on collaboration. The most substantive thread is a user asking Figma staff whether Specs flags when a component changes but the written spec doesn't, and a Figma team member says that's in line with where they're taking Specs next.",
+  "notable_replies": [
+   {
+    "handle": "@luis_usaa",
+    "text": "new features in figma look promising for collaboration"
+   },
+   {
+    "handle": "@_johnnydallas_",
+    "text": "Not yet, but this is inline with some of our thinking for where to take Specs next :)"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2110618179982749940.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2110618179982749940.jpg"
  },
  {
   "id": "2110606384761069955",
@@ -715,6 +1192,63 @@
   "screenshot": "shots/2110410655165779985.png",
   "screenshot_method": "embed",
   "thumbnail": "thumbs/2110410655165779985.jpg"
+ },
+ {
+  "id": "2109639214723932495",
+  "url": "https://x.com/bettersayAJ/status/2109639214723932495",
+  "author": {
+   "handle": "bettersayAJ",
+   "name": "ajay yadav"
+  },
+  "created_at": "2026-10-12T13:35:58.000Z",
+  "collected_at": "2026-10-19T01:17:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "startup-launch",
+   "founder-video",
+   "ai-agents"
+  ],
+  "description": "Founder launch video for neatlogs, an agent observability tool, opening on a two-line hook (\"building agents is easy / getting them to production is hard\"). A reference for a founder-led startup launch built around one sharp problem statement.",
+  "text": "building agents is easy\n\ngetting them to production is hard\n\ntoday we’re launching @neatlogs to fix that https://t.co/IwhlPk2kR1",
+  "metrics": {
+   "impressions": 151697,
+   "likes": 468,
+   "reposts": 62,
+   "replies": 110,
+   "quotes": 228,
+   "bookmarks": 187
+  },
+  "metrics_updated_at": "2026-10-19T01:17:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/media/HUbwUr_asAA7mvu.jpg",
+    "duration_ms": 155767,
+    "mp4": "https://video.twimg.com/amplify_video/2109637713544769536/vid/avc1/640x360/JKivTYkASgZOagTG.mp4"
+   }
+  ],
+  "replies_summary": "Mostly congratulations, with one reply calling the launch \"super sleek\". A few practitioners engage with the pitch, agreeing production is where logging and retries eat time and asking whether neatlogs can separate provider changes from input changes; one asks how they demo it in under a minute.",
+  "notable_replies": [
+   {
+    "handle": "@dynaayoW",
+    "text": "Congrats!  Launch was super sleek ❤️"
+   },
+   {
+    "handle": "@xiao_2146",
+    "text": "That split is exactly right. Demo agents are cheap; production is where logging, retries, and “why did it do that” eat the week. Rooting for neatlogs."
+   },
+   {
+    "handle": "@kaify_co",
+    "text": "Agents to production is the part most tools skip showing tbh.  How do you usually demo neatlogs in under a minute?"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2109639214723932495.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2109639214723932495.jpg"
  },
  {
   "id": "2108593170569175495",
