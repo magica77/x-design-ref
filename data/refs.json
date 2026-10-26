@@ -61,6 +61,576 @@
   "thumbnail": "thumbs/2108249557519970369.jpg"
  },
  {
+  "id": "2113694972339986860",
+  "url": "https://x.com/NotionHQ/status/2113694972339986860",
+  "author": {
+   "handle": "NotionHQ",
+   "name": "Notion"
+  },
+  "created_at": "2026-10-23T18:12:06.000Z",
+  "collected_at": "2026-10-26T01:12:44Z",
+  "category": "App Intro",
+  "tags": [],
+  "derived_tags": [
+   "ios-app",
+   "foldable",
+   "product-film"
+  ],
+  "description": "Nine-second Notion clip showing its app adapting to the iPhone Duo's larger unfolded workspace, with a witty one-line caption. A model of a micro-intro: one device moment, one line, no feature list.",
+  "text": "iPhone Duo. Now with a little more workspace. https://t.co/xDEIZfaZAC",
+  "metrics": {
+   "impressions": 118029,
+   "likes": 2053,
+   "reposts": 88,
+   "replies": 57,
+   "quotes": 27,
+   "bookmarks": 179
+  },
+  "metrics_updated_at": "2026-10-26T01:12:44Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2113694786498723840/img/lF89ffHzQX3i49jB.jpg",
+    "duration_ms": 8633,
+    "mp4": "https://video.twimg.com/amplify_video/2113694786498723840/vid/avc1/554x360/7FKIpsLIY6-CvSLc.mp4"
+   }
+  ],
+  "replies_summary": "Replies are strongly positive about the demo and the day-one support, with a designer arguing landscape layouts suit most work; some asked for the same treatment in Notion Calendar or wished it opened the iPad layout when unfolded.",
+  "notable_replies": [
+   {
+    "handle": "@giovaniif",
+    "text": "Holy fucking crap what kind of demo is this"
+   },
+   {
+    "handle": "@gbains_aio",
+    "text": "Thank you for making the duo version straight off the bat!"
+   },
+   {
+    "handle": "@Dsmith14",
+    "text": "Let's be honest as a designer and a user, 99 percent of things you need to do online are better in a large landscape. That's why most times you need to do something it's always worse on your phone. I think we all have been brainwashed that portrait, is okay. No, it's not."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2113694972339986860.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2113694972339986860.jpg"
+ },
+ {
+  "id": "2113661506634305834",
+  "url": "https://x.com/cursor_ai/status/2113661506634305834",
+  "author": {
+   "handle": "cursor_ai",
+   "name": "Cursor"
+  },
+  "created_at": "2026-10-23T15:59:07.000Z",
+  "collected_at": "2026-10-26T01:12:44Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "ai",
+   "computer-use"
+  ],
+  "description": "21-second Cursor clip showing an agent driving desktop apps like the iOS Simulator to test the features it builds. A tight, single-capability intro: one sentence of copy and a short screen recording that shows the loop end to end.",
+  "text": "Cursor can now control your computer.\n\nAgents can drive desktop apps like the iOS Simulator to test the features they build. https://t.co/FVK9W9mxWF",
+  "metrics": {
+   "impressions": 395365,
+   "likes": 6381,
+   "reposts": 466,
+   "replies": 516,
+   "quotes": 421,
+   "bookmarks": 1334
+  },
+  "metrics_updated_at": "2026-10-26T01:12:44Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2113661477857165312/img/SBAfKUufUE9vcwCO.jpg",
+    "duration_ms": 21033,
+    "mp4": "https://video.twimg.com/amplify_video/2113661477857165312/vid/avc1/640x360/CRg3EOJUJ23t3Ig_.mp4?tag=16"
+   }
+  ],
+  "replies_summary": "Replies are mostly practical questions about setup and trust: how app permissions and approvals work when the agent jumps between apps, and whether it can be limited to specific apps. Several people call out closing the loop on mobile UI testing as the real win.",
+  "notable_replies": [
+   {
+    "handle": "@houndsecurityai",
+    "text": "Curious how approvals work when it jumps between apps. A per-session list of which apps it can drive, plus a visible record of what it clicked, would make this a lot easier to trust on a real machine."
+   },
+   {
+    "handle": "@adamarul09",
+    "text": "If this tops computer use then I’m all in!"
+   },
+   {
+    "handle": "@officialsirmeme",
+    "text": "Nice update!"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2113661506634305834.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2113661506634305834.jpg"
+ },
+ {
+  "id": "2113400110415860193",
+  "url": "https://x.com/threejs/status/2113400110415860193",
+  "author": {
+   "handle": "threejs",
+   "name": "Three.js"
+  },
+  "created_at": "2026-10-22T22:40:26.000Z",
+  "collected_at": "2026-10-26T01:12:44Z",
+  "category": "Animated Website",
+  "tags": [],
+  "derived_tags": [
+   "threejs",
+   "webgl",
+   "shader-art"
+  ],
+  "description": "Caption-less three.js showcase of the real-time browser demo 'Two Horizons' (per a reply), with a golden event-horizon scene and a violet field under a ring. Great reference for cinematic WebGL scenes and shader-driven atmosphere on the web.",
+  "text": "https://t.co/4iDnjDlYnJ",
+  "metrics": {
+   "impressions": 69970,
+   "likes": 2945,
+   "reposts": 157,
+   "replies": 35,
+   "quotes": 4,
+   "bookmarks": 1054
+  },
+  "metrics_updated_at": "2026-10-26T01:12:44Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2113298614378532864/img/ZTtqvgkhB2qKlhqi.jpg",
+    "duration_ms": 28033,
+    "mp4": "https://video.twimg.com/amplify_video/2113298614378532864/vid/avc1/640x360/nEkH9g16mKSh6eaj.mp4"
+   }
+  ],
+  "replies_summary": "Replies call it beautiful and stunning, with several comparing it to Interstellar and other shader artists sharing their own physically based black-hole renders.",
+  "notable_replies": [
+   {
+    "handle": "@remotecodetrol",
+    "text": "This is beautiful. I assume this is inspired off of Interstellar?"
+   },
+   {
+    "handle": "@TheBrainofChan",
+    "text": "Beautiful. Well done."
+   },
+   {
+    "handle": "@yefranur",
+    "text": "Stunning... One of my dreams is to watch a black hole, may humanity improve aerospace tech fast..."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2113400110415860193.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2113400110415860193.jpg"
+ },
+ {
+  "id": "2113392224155374018",
+  "url": "https://x.com/obsdmd/status/2113392224155374018",
+  "author": {
+   "handle": "obsdmd",
+   "name": "Obsidian"
+  },
+  "created_at": "2026-10-22T22:09:05.000Z",
+  "collected_at": "2026-10-26T01:12:44Z",
+  "category": "App Intro",
+  "tags": [],
+  "derived_tags": [
+   "release-video",
+   "notes-app",
+   "ios"
+  ],
+  "description": "Obsidian 1.15 early-access release video covering faster themed Mermaid diagrams, Lock Screen voice capture on iOS and more. A good reference for presenting a multi-feature release as a short video with a scannable changelog caption.",
+  "text": "Obsidian 1.15.0 (early access) is now available to Catalyst members!\n\n- Mermaid diagrams use our new rendering engine, Pele, which renders up to 500 times faster and uses your theme's colors and fonts.\n- Voice capture on iOS: Quick Capture can record and transcribe voice notes as you speak, even from the Lock Screen.\n- PDF export on mobile.\n- Smarter list editing: indenting or moving a list item now moves nested items too.\n- Accent-insensitive search: cafe matches café in suggestions.\n- New URI and CLI commands to append or prepend content under a heading.\n- Filters in Bases can now be reordered.\n- Community plugins load faster when Obsidian starts.",
+  "metrics": {
+   "impressions": 89910,
+   "likes": 870,
+   "reposts": 46,
+   "replies": 34,
+   "quotes": 14,
+   "bookmarks": 238
+  },
+  "metrics_updated_at": "2026-10-26T01:12:44Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2113391041814650880/img/OUOIg_idBZ7lJbcd.jpg",
+    "duration_ms": 37516,
+    "mp4": "https://video.twimg.com/amplify_video/2113391041814650880/vid/avc1/480x640/VUFjvtq2MUo3vCGE.mp4"
+   }
+  ],
+  "replies_summary": "Replies are enthusiastic about voice capture and accent-insensitive search, with Android users asking when features arrive there and others asking technical questions about the new Pele renderer and how the 500x speedup was measured.",
+  "notable_replies": [
+   {
+    "handle": "@ggtrm",
+    "text": "Accent insensitive search!!! ty! After waiting for years I finally decided to build a plugin two weeks ago. If only I’d known, I would have waited."
+   },
+   {
+    "handle": "@yuhoio",
+    "text": "Lock Screen capture is the right call. On a walk every extra tap costs you the thought. I’m wondering if the on device dictation is stable enough for long walk. Maybe saving recording for later transcription is also a good choice"
+   },
+   {
+    "handle": "@olegbezr_",
+    "text": "Wait how do I get the Liquid Glass on?"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2113392224155374018.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2113392224155374018.jpg"
+ },
+ {
+  "id": "2113383291621671147",
+  "url": "https://x.com/rauchg/status/2113383291621671147",
+  "author": {
+   "handle": "rauchg",
+   "name": "Guillermo Rauch"
+  },
+  "created_at": "2026-10-22T21:33:36.000Z",
+  "collected_at": "2026-10-26T01:12:44Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "cli",
+   "developer-tools",
+   "demo-video"
+  ],
+  "description": "Guillermo Rauch's demo of 'vercel deploy --temporary', a no-signup throwaway deploy, shown with ultrafast AI generating a page. Close in spirit to the Excalidraw CLI intro: a single CLI command demoed quickly with a punchy monospace caption.",
+  "text": "𝚟𝚎𝚛𝚌𝚎𝚕 𝚍𝚎𝚙𝚕𝚘𝚢 --𝚝𝚎𝚖𝚙𝚘𝚛𝚊𝚛𝚢 is wild\n(and so is ultrafast ai) https://t.co/dfMe3wmUIs https://t.co/teeXwPcBvq",
+  "metrics": {
+   "impressions": 54416,
+   "likes": 626,
+   "reposts": 25,
+   "replies": 51,
+   "quotes": 4,
+   "bookmarks": 231
+  },
+  "metrics_updated_at": "2026-10-26T01:12:44Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2113383059609595904/img/TvNSc1aI0PMPjnOG.jpg",
+    "duration_ms": 50850,
+    "mp4": "https://video.twimg.com/amplify_video/2113383059609595904/vid/avc1/502x360/STPLxcc2v2fnRKmU.mp4"
+   }
+  ],
+  "replies_summary": "Replies highlight the no-signup aspect and the fit for agent-generated, disposable previews, comparing it to free artifacts for everyone, with questions about how long temporary deploys stay up and how cleanup works.",
+  "notable_replies": [
+   {
+    "handle": "@baronunread",
+    "text": "This is insane, it's basically artifacts but free and for everybody. Love this"
+   },
+   {
+    "handle": "@NyttoLabs",
+    "text": "honestly the no signup part is the big one for me. half my side projects die at the create an account step before anything is even live"
+   },
+   {
+    "handle": "@yibaili530",
+    "text": "This is perfect for my little browser demos. How long does a temporary deploy stay up?"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2113383291621671147.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2113383291621671147.jpg"
+ },
+ {
+  "id": "2112995753824301406",
+  "url": "https://x.com/stripe/status/2112995753824301406",
+  "author": {
+   "handle": "stripe",
+   "name": "Stripe"
+  },
+  "created_at": "2026-10-21T19:53:39.000Z",
+  "collected_at": "2026-10-26T01:12:44Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "payments",
+   "ai"
+  ],
+  "description": "Stripe's announcement video for running your business inside Claude Duet (purchases with Link, refunds and trends via the Stripe MCP). Useful reference for a partnership intro that uses a short bulleted caption and lets the video show the in-chat flow.",
+  "text": "We’re working with Anthropic to help you run your businesses inside Claude Duet.\n\n• Make purchases with @link \n• Issue refunds and understand business trends with the Stripe MCP https://t.co/F9DvSH9KVi https://t.co/oqcuzGQL4h",
+  "metrics": {
+   "impressions": 90297,
+   "likes": 725,
+   "reposts": 43,
+   "replies": 58,
+   "quotes": 29,
+   "bookmarks": 200
+  },
+  "metrics_updated_at": "2026-10-26T01:12:44Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/media/HVLgk6UaYAEOuf_.jpg",
+    "duration_ms": 48066,
+    "mp4": "https://video.twimg.com/amplify_video/2112995559674146816/vid/avc1/480x360/Amx6KqhMUARyNR0m.mp4"
+   }
+  ],
+  "replies_summary": "Replies centre on trust and guardrails for refunds, such as whether refund permissions are separate from analytics (Stripe Support confirmed they are) and how confirmations work, alongside general enthusiasm that the back office is collapsing into a chat thread.",
+  "notable_replies": [
+   {
+    "handle": "@Charlie01748449",
+    "text": "purchases and refunds from one chat window. the entire back office is collapsing into a single thread"
+   },
+   {
+    "handle": "@telofacturo",
+    "text": "Are refund permissions separate from analytics access in the MCP integration? That distinction matters for small teams assigning responsibilities."
+   },
+   {
+    "handle": "@IntelDailyAI",
+    "text": "Business tools are getting a lot more interesting when AI can actually take action instead of just giving advice"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2112995753824301406.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2112995753824301406.jpg"
+ },
+ {
+  "id": "2112589666956570891",
+  "url": "https://x.com/_adishj/status/2112589666956570891",
+  "author": {
+   "handle": "_adishj",
+   "name": "Adish Jain ☕️"
+  },
+  "created_at": "2026-10-20T17:00:01.000Z",
+  "collected_at": "2026-10-26T01:12:44Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "ai",
+   "video-editing"
+  ],
+  "description": "Two-minute launch video for the General Video Agent (GVA) that was itself edited by the product, so the reel doubles as the demo. A strong reference for a self-proving launch: the medium is the proof of the claim.",
+  "text": "today, we're launching the General Video Agent.\n\nGVA edited this entire launch video. 👇🏽\n\npublic beta is now live at https://t.co/ivTRUHoVzE. no waitlist.\n\ncomment “GVA” for 1,000 free credits.\n\nexamples &amp; capabilities in thread 🧵 https://t.co/pw99lCM51k",
+  "metrics": {
+   "impressions": 708082,
+   "likes": 1525,
+   "reposts": 936,
+   "replies": 1430,
+   "quotes": 32,
+   "bookmarks": 626
+  },
+  "metrics_updated_at": "2026-10-26T01:12:44Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2112526143618478080/img/4wyhCAYn76FdUrCK.jpg",
+    "duration_ms": 124600,
+    "mp4": "https://video.twimg.com/amplify_video/2112526143618478080/vid/avc1/640x360/iGn4gC0hnIjuArd-.mp4"
+   }
+  ],
+  "replies_summary": "The top replies are almost entirely short hype and emoji (fire, 'amazing!', 'Really excited'), largely driven by the post's 'comment GVA for free credits' call to action, so there is little substantive design feedback in the thread.",
+  "notable_replies": [
+   {
+    "handle": "@jellydollop",
+    "text": "amazing!"
+   },
+   {
+    "handle": "@VaibhavT_2",
+    "text": "Really excited"
+   },
+   {
+    "handle": "@aliptoapp",
+    "text": "like it"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2112589666956570891.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2112589666956570891.jpg"
+ },
+ {
+  "id": "2112571597798461920",
+  "url": "https://x.com/perplexity_ai/status/2112571597798461920",
+  "author": {
+   "handle": "perplexity_ai",
+   "name": "Perplexity"
+  },
+  "created_at": "2026-10-20T15:48:13.000Z",
+  "collected_at": "2026-10-26T01:12:44Z",
+  "category": "App Intro",
+  "tags": [],
+  "derived_tags": [
+   "mac-app",
+   "ai",
+   "privacy"
+  ],
+  "description": "Perplexity's intro for Perplexity Computer running fully local on the Mac, working with native apps and local files. Good reference for a privacy-led app intro that pairs a clear benefit statement with a polished desktop demo.",
+  "text": "Perplexity Computer can now run fully local on your Mac.\n\nWork with your native Mac apps and local files, and run tasks without sending sensitive data to the cloud. The model and the agent both run on your Mac.\n\nAvailable now in the Perplexity Mac app. https://t.co/tnvCgCXD7v",
+  "metrics": {
+   "impressions": 364331,
+   "likes": 1875,
+   "reposts": 162,
+   "replies": 205,
+   "quotes": 176,
+   "bookmarks": 909
+  },
+  "metrics_updated_at": "2026-10-26T01:12:44Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2112571479745495040/img/6agUzZjpfbZMBBOA.jpg",
+    "duration_ms": 68501,
+    "mp4": "https://video.twimg.com/amplify_video/2112571479745495040/vid/avc1/640x360/ro0EAqj2jiZx_Wbp.mp4?tag=16"
+   }
+  ],
+  "replies_summary": "Replies focus on privacy as the headline benefit, with technical follow-ups about memory requirements, context limits and how local retrieval keeps citations current. Overall tone is positive, framing it as a meaningful threshold for local agents.",
+  "notable_replies": [
+   {
+    "handle": "@Pai3Ai",
+    "text": "This is a meaningful threshold"
+   },
+   {
+    "handle": "@arrd_el",
+    "text": "36GB as the floor for a fully local agent is the real story. That is a hardware gate on private agents, not a model gate. The interesting split is how much of that is weights versus agent harness overhead."
+   },
+   {
+    "handle": "@BlairHayesAi",
+    "text": "Finally true privacy, local compute power changes everything completely"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2112571597798461920.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2112571597798461920.jpg"
+ },
+ {
+  "id": "2112559072461623621",
+  "url": "https://x.com/madelinelawren/status/2112559072461623621",
+  "author": {
+   "handle": "madelinelawren",
+   "name": "Madeline Lawrence"
+  },
+  "created_at": "2026-10-20T14:58:26.000Z",
+  "collected_at": "2026-10-26T01:12:44Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "security",
+   "brand-film"
+  ],
+  "description": "Launch video for Noon, Aikido Security's new product to 'secure everybody else', posted by co-founder Madeline Lawrence. A good example of a founder-posted launch with a two-line hook that sets up the video's story.",
+  "text": "We built @AikidoSecurity to secure devs.\n\nToday, we're launching Noon to secure everybody else. https://t.co/2Dt0MGpr3H",
+  "metrics": {
+   "impressions": 159209,
+   "likes": 99,
+   "reposts": 12,
+   "replies": 12,
+   "quotes": 2,
+   "bookmarks": 24
+  },
+  "metrics_updated_at": "2026-10-26T01:12:44Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2112558334109003776/img/orwcR4i-9dFD5xA7.jpg",
+    "duration_ms": 57250,
+    "mp4": "https://video.twimg.com/amplify_video/2112558334109003776/vid/avc1/640x360/MPOyqioY4Rm7R_WN.mp4"
+   }
+  ],
+  "replies_summary": "Replies are congratulatory and note the big strategic leap from developer security to everyone; one marketer specifically praised the video, and others joked about the name being a pun on daybreak.",
+  "notable_replies": [
+   {
+    "handle": "@dopestmarketer",
+    "text": "LFG 👏🧡 \n\n(cool video too)"
+   },
+   {
+    "handle": "@mattjay",
+    "text": "woah. that is a whole new space. huge moves."
+   },
+   {
+    "handle": "@ZackKorman",
+    "text": "Is… noon a pun on daybreak…"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2112559072461623621.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2112559072461623621.jpg"
+ },
+ {
+  "id": "2112162857567625568",
+  "url": "https://x.com/frederickjames/status/2112162857567625568",
+  "author": {
+   "handle": "frederickjames",
+   "name": "Frederick James"
+  },
+  "created_at": "2026-10-19T12:44:01.000Z",
+  "collected_at": "2026-10-26T01:12:44Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "ios",
+   "indie-saas"
+  ],
+  "description": "Indie launch video for Reception, in-app support for iOS apps, paired with an emoji-bulleted benefits list. A solid reference for a solo-founder product intro whose video pitches the product's outcomes (sales, reviews, lower churn).",
+  "text": "Today we're launching Reception.\n\nIn app support for iOS apps.\n\n• Turn chat into sales 💸 \n• Ask happy customers for reviews ✨\n• Solve problems: lower churn 📉\n• Convince users during onboarding 🙋‍♂️\n• Abandon checkout? Abandon chat 💬 https://t.co/7esuHCt2Ww",
+  "metrics": {
+   "impressions": 82756,
+   "likes": 636,
+   "reposts": 21,
+   "replies": 160,
+   "quotes": 33,
+   "bookmarks": 527
+  },
+  "metrics_updated_at": "2026-10-26T01:12:44Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2112160692144898048/img/EuZVbJeqRXpy5HUo.jpg",
+    "duration_ms": 144000,
+    "mp4": "https://video.twimg.com/amplify_video/2112160692144898048/vid/avc1/640x360/TI7nbsgORpjgdWvG.mp4"
+   }
+  ],
+  "replies_summary": "Replies are congratulatory and praise both the video and the design, with practical questions such as whether apps without a backend can use it; several builders said they had been looking for exactly this.",
+  "notable_replies": [
+   {
+    "handle": "@fetziwilldoit",
+    "text": "The design is slick as f! Really well done man"
+   },
+   {
+    "handle": "@rvgdev",
+    "text": "video and product look great 🙌"
+   },
+   {
+    "handle": "@Ozzymundoo",
+    "text": "Great pitch, great product, you got me. Just got it, let's make this work!"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2112162857567625568.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2112162857567625568.jpg"
+ },
+ {
   "id": "2111515160766550057",
   "url": "https://x.com/github/status/2111515160766550057",
   "author": {
