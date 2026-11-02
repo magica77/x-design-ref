@@ -1,0 +1,482 @@
+[
+ {
+  "id": "2116253388883345623",
+  "url": "https://x.com/OpenAI/status/2116253388883345623",
+  "author_username": "OpenAI",
+  "author_name": "OpenAI",
+  "created_at": "2026-10-30T19:38:20.000Z",
+  "text": "There are many futures. Which do you want to build? https://t.co/19NY7tgPHM",
+  "public_metrics": {
+   "bookmark_count": 2495,
+   "impression_count": 2666285,
+   "like_count": 11640,
+   "quote_count": 590,
+   "reply_count": 989,
+   "retweet_count": 811
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2116236456897212416/img/3feufnhOpbHvJ6kt.jpg",
+    "duration_ms": 76916,
+    "mp4": "https://video.twimg.com/amplify_video/2116236456897212416/vid/avc1/640x360/mWkd4iLssaTn27E7.mp4"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "A 77-second illustrated brand film from OpenAI that opens on \"The Museum of What Could Be\", with small figures wandering a soft, warm-toned gallery of possible futures. A good reference for a mood-first launch piece that sells a vision through gentle character animation rather than UI.",
+  "derived_tags": [
+   "brand-film",
+   "illustration",
+   "animation"
+  ],
+  "replies_summary": "Replies are mostly off-topic: jokes about future model names, complaints about RAM and GPU prices, and criticism of OpenAI itself. On the visual, some wondered whether the animation was AI-generated (one noted TikTok tagged it that way), while one called the drawing amateurish.",
+  "notable_replies": [
+   {
+    "handle": "@ItsZedK",
+    "text": "Tagged as AI generated on TikTok, new model? 👀 https://t.co/cLcLAm1GZv"
+   },
+   {
+    "handle": "@saintkamus",
+    "text": "F, my kid can draw better than that"
+   },
+   {
+    "handle": "@TolkienFragment",
+    "text": "the one were we can afford to purchase a good gpu and 128gb of memory without needing to take out a home equity loan"
+   }
+  ]
+ },
+ {
+  "id": "2114760089009844459",
+  "url": "https://x.com/AfterQuery/status/2114760089009844459",
+  "author_username": "AfterQuery",
+  "author_name": "AfterQuery",
+  "created_at": "2026-10-26T16:44:30.000Z",
+  "text": "Frontier models nearly run through the public internet for pre-training alone. The knowledge they need next is locked inside businesses.\n\nToday we're launching @AfterQuery Data Partnerships.\n\nIf you're a business owner who is curious, or hesitant, about licensing your data, we would love to hear from you.\n\nLearn more in the replies.",
+  "public_metrics": {
+   "bookmark_count": 74,
+   "impression_count": 1222024,
+   "like_count": 87,
+   "quote_count": 5,
+   "reply_count": 9,
+   "retweet_count": 11
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2114759983711838210/img/qDNtKAb3oW-Ppn_W.jpg",
+    "duration_ms": 12000,
+    "mp4": "https://video.twimg.com/amplify_video/2114759983711838210/vid/avc1/540x540/NuvKQB-kxPxNobKD.mp4"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "A 12-second square launch loop for AfterQuery Data Partnerships: a serif headline (\"Your company's data, licensed with care.\") over a soft pastel gradient with animated vertical barcode-like lines. A tidy reference for a calm, typographic B2B announcement that fits in one glance.",
+  "derived_tags": [
+   "launch-video",
+   "typography",
+   "b2b"
+  ],
+  "replies_summary": "Replies focus on the business idea rather than the visual: people agree the next useful training data sits inside companies, but note that cleanup, permissions and stripping PII are the hard part. Several replies are data vendors pitching their own services.",
+  "notable_replies": [
+   {
+    "handle": "@dan_gofman",
+    "text": "The next wave of useful training data really does sit inside companies rather than on the public web. The hard part will be the cleanup and permissions work, which usually takes longer than the actual deal."
+   },
+   {
+    "handle": "@vladislavgeras",
+    "text": "The public web was the easy training set.\nThe next gains live inside private business data.\nLicensing with care is what makes that data usable."
+   },
+   {
+    "handle": "@Elev_30",
+    "text": "most of what a small firm knows sits in email threads with client names in them. licensing starts with who strips those out."
+   }
+  ]
+ },
+ {
+  "id": "2116191290216124567",
+  "url": "https://x.com/vercel/status/2116191290216124567",
+  "author_username": "vercel",
+  "author_name": "Vercel",
+  "created_at": "2026-10-30T15:31:35.000Z",
+  "text": "Introducing Geist Serif. https://t.co/UUHenV769c",
+  "public_metrics": {
+   "bookmark_count": 2918,
+   "impression_count": 630604,
+   "like_count": 6540,
+   "quote_count": 193,
+   "reply_count": 179,
+   "retweet_count": 293
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2116191262042980353/img/uuu6HM1ZHpAOiqze.jpg",
+    "duration_ms": 43333,
+    "mp4": "https://video.twimg.com/amplify_video/2116191262042980353/vid/avc1/540x540/iPt1v7GzFd6GlCoi.mp4?tag=16"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "Vercel's 43-second intro for Geist Serif, an open-source serif completing the Geist family, presented as a minimal specimen with bold electric-blue geometric shapes on white. A strong reference for launching a typeface with a restrained, poster-like motion system.",
+  "derived_tags": [
+   "typeface",
+   "type-specimen",
+   "open-source"
+  ],
+  "replies_summary": "The reaction is warm and design-focused: people love the font and the blue look, and the most-liked reply singles out a cute font-variation setting. One reply compares it to Ortica by Collletttivo, and a few ask why a company would release a font at all.",
+  "notable_replies": [
+   {
+    "handle": "@nuttynux",
+    "text": "Wait, yoooooo, this font-variation-setting is actually so friggin' cute ♡ https://t.co/cQQvVxHnzm"
+   },
+   {
+    "handle": "@lightfastai",
+    "text": "love the font & blue vibes ~"
+   },
+   {
+    "handle": "@shorttimelines",
+    "text": "Beautiful work. Looks a lot like Ortica by Collletttivo"
+   }
+  ]
+ },
+ {
+  "id": "2115126432712241658",
+  "url": "https://x.com/aditya_vellanki/status/2115126432712241658",
+  "author_username": "aditya_vellanki",
+  "author_name": "Aditya Vellanki",
+  "created_at": "2026-10-27T17:00:13.000Z",
+  "text": "Today, we're launching Sentient OS (YC F26), on-device AI that understands your life overnight with a local LLM. This unlimited inference enables 2 magical experiences 🧵 https://t.co/SFFAAnrxdj",
+  "public_metrics": {
+   "bookmark_count": 302,
+   "impression_count": 490543,
+   "like_count": 471,
+   "quote_count": 34,
+   "reply_count": 122,
+   "retweet_count": 37
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115117247811522564/img/hOClCbis0MvK66lr.jpg",
+    "duration_ms": 67100,
+    "mp4": "https://video.twimg.com/amplify_video/2115117247811522564/vid/avc1/640x360/vgjwoBh_-u52Ave0.mp4"
+   }
+  ],
+  "category": "App Intro",
+  "description": "A 67-second live-action launch film for Sentient OS (YC F26), an on-device AI that learns your life overnight with a local LLM, shot outdoors in a park rather than on a screen. A useful reference for grounding a technical app launch in everyday, human footage.",
+  "derived_tags": [
+   "launch-video",
+   "on-device-ai",
+   "yc"
+  ],
+  "replies_summary": "Replies are mostly congratulations plus thoughtful product questions: praise for the local-first, overnight approach and the local markdown files, alongside questions about day-two retention, correcting wrong memories, and why setup asks for a ChatGPT subscription despite being on-device.",
+  "notable_replies": [
+   {
+    "handle": "@GravityRsch",
+    "text": "local markdown files is actually the smartest design choice here"
+   },
+   {
+    "handle": "@cmicpace",
+    "text": "Letting a local model do the heavy thinking overnight, so nothing leaves the Mac, is a smart way to make on-device AI feel generous instead of limited. Congrats on the launch."
+   },
+   {
+    "handle": "@AtriPatel1705",
+    "text": "The harder part is the habit. What does it do on day one that makes someone open it again on day two?"
+   }
+  ]
+ },
+ {
+  "id": "2116186509384815084",
+  "url": "https://x.com/OpenAI/status/2116186509384815084",
+  "author_username": "OpenAI",
+  "author_name": "OpenAI",
+  "created_at": "2026-10-30T15:12:35.000Z",
+  "text": "Privacy should advance as fast as intelligence. OpenAI Private Intelligence gives businesses stronger controls over their data while using our most capable models.\n\nWe’re building these protections in close collaboration with some of our largest customers to help businesses apply frontier AI to their most sensitive work.\nhttps://t.co/BiA4N8FQVH",
+  "public_metrics": {
+   "bookmark_count": 553,
+   "impression_count": 413607,
+   "like_count": 3006,
+   "quote_count": 201,
+   "reply_count": 544,
+   "retweet_count": 223
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2116186389536788480/img/hbO4g10coOsa0Gy3.jpg",
+    "duration_ms": 6078,
+    "mp4": "https://video.twimg.com/amplify_video/2116186389536788480/vid/avc1/564x360/XLwAY0WntubkG4Tz.mp4"
+   }
+  ],
+  "category": "Product Intro",
+  "description": "A short 6-second explainer for OpenAI Private Intelligence that animates a clean diagram of customer and OpenAI environments, with labeled boundaries for data access, tools, permitted actions and approvals. A good reference for turning a security architecture into a calm, legible system diagram.",
+  "derived_tags": [
+   "diagram",
+   "enterprise",
+   "privacy"
+  ],
+  "replies_summary": "Replies are skeptical and enterprise-minded: people ask how the privacy can be verified, whether data processing or just access changes, and what retention and auditability look like. Several call it a promise without pricing, timeline or named customers.",
+  "notable_replies": [
+   {
+    "handle": "@aitization",
+    "text": "how do we verify that it’s actually private?"
+   },
+   {
+    "handle": "@OndaTechHQ",
+    "text": "Controls over what a model can access are a good step. The next question is retention. The safest data is the data that was never stored."
+   },
+   {
+    "handle": "@yannitesh22",
+    "text": "OpenAI promises businesses stronger data controls and calls it Private Intelligence. No pricing, no timeline, no named customers. A promise is not a product, and on the floor you count the locks, not the slogans."
+   }
+  ]
+ },
+ {
+  "id": "2115237285411361163",
+  "url": "https://x.com/TonyZ278264/status/2115237285411361163",
+  "author_username": "TonyZ278264",
+  "author_name": "LocalLLM",
+  "created_at": "2026-10-28T00:20:42.000Z",
+  "text": "LFM3 1.7B is now available in our iOS app, Local LLM.\n\nA small interactive webpage, made locally on iPhone.\n\nhttps://t.co/odh8xMF2ab\n\nGeneration sped up. https://t.co/EFyiJz2QKA https://t.co/dHTBg7hlrD",
+  "public_metrics": {
+   "bookmark_count": 173,
+   "impression_count": 352639,
+   "like_count": 294,
+   "quote_count": 2,
+   "reply_count": 20,
+   "retweet_count": 19
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115237223503126528/img/tTohbCFb0i1-Iyq1.jpg",
+    "duration_ms": 10533,
+    "mp4": "https://video.twimg.com/amplify_video/2115237223503126528/vid/avc1/540x540/QHipG5J-zjl4l12C.mp4"
+   }
+  ],
+  "category": "App Intro",
+  "description": "A 10-second screen capture of the Local LLM iOS app, where the on-device LFM3 1.7B model builds a small interactive webpage right on an iPhone, framed with a simple headline and \"Available in Local LLM\" caption. A neat reference for a short, proof-by-demo app announcement.",
+  "derived_tags": [
+   "ios",
+   "on-device-ai",
+   "demo"
+  ],
+  "replies_summary": "Replies like that it shows something playable instead of benchmark scores, and ask about memory use on older iPhones and speed versus the previous version. Some users report model download problems and request an Android version and UI tweaks like a download-progress indicator.",
+  "notable_replies": [
+   {
+    "handle": "@AleksejAros",
+    "text": "A tiny model making something you can actually tap and play with is a much more fun demo than another wall of benchmark scores."
+   },
+   {
+    "handle": "@luffyselah",
+    "text": "A 1.7B model building a webpage on-device is a nice demo. How much memory does it use while generating? That's usually the limit on older iPhones."
+   },
+   {
+    "handle": "@leoarronchester",
+    "text": "On this screen you should add the thing you have in your Dynamic Island version where it shows how much data has already been downloaded https://t.co/Wwj9cUttUH"
+   }
+  ]
+ },
+ {
+  "id": "2115491393812697219",
+  "url": "https://x.com/readwise/status/2115491393812697219",
+  "author_username": "readwise",
+  "author_name": "Readwise",
+  "created_at": "2026-10-28T17:10:26.000Z",
+  "text": "Introducing Readwise Books. Our third product.\n\nBuy, read, and track all your books in one beautiful place. And so much more.\n\nInvite-only beta is live at https://t.co/MhfMepmate\n\n(readwise subscribers have access now) https://t.co/nmzkna8hmK",
+  "public_metrics": {
+   "bookmark_count": 400,
+   "impression_count": 138144,
+   "like_count": 925,
+   "quote_count": 99,
+   "reply_count": 92,
+   "retweet_count": 88
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/media/HVvc9kRaQAAQsaD.jpg",
+    "duration_ms": 54066,
+    "mp4": "https://video.twimg.com/amplify_video/2115491232453623808/vid/avc1/640x360/lQyWCMmPNZfQxyaW.mp4"
+   }
+  ],
+  "category": "App Intro",
+  "description": "Readwise's 54-second intro for Readwise Books, its third product, showing a fanned-out collage of warm, orange-accented phone screens for buying, reading and tracking books. A good reference for presenting a whole mobile app's feature set as one cohesive, colorful screen system.",
+  "derived_tags": [
+   "launch-video",
+   "reading",
+   "mobile-app"
+  ],
+  "replies_summary": "Replies mix excitement with feature requests: people call the app beautiful and the onboarding delightful, and ask for desktop and web clients, PDF support, European availability and keeping original EPUB formatting. Some Reader users find the split between the two products confusing.",
+  "notable_replies": [
+   {
+    "handle": "@danlang",
+    "text": "The Books app is beautiful! Onboarding was delightful. Wondering if you're considering a web app for Readwise Books as well as the platform-specific apps?"
+   },
+   {
+    "handle": "@5amyak_",
+    "text": "loving the app so far! Any plans of having a desktop client? I like switching b/w my macbook and iphone on Apple Books."
+   },
+   {
+    "handle": "@lukestaceyuk",
+    "text": "As a Readwise Reader user this feels very confusing. \n\nMaybe Reader is now for reading only articles and this new app is just for books? \n\nOh wait, no, its my exact library from Reader but I can buy books? Nope, only in the US. \n\nSo just Reader + metrics and \"social\". Weird."
+   }
+  ]
+ },
+ {
+  "id": "2116184779288977600",
+  "url": "https://x.com/threejs/status/2116184779288977600",
+  "author_username": "threejs",
+  "author_name": "Three.js",
+  "created_at": "2026-10-30T15:05:42.000Z",
+  "text": "Three.js r187 released 🍎 \nhttps://t.co/56thRmkENo https://t.co/lRDcX0gTFM",
+  "public_metrics": {
+   "bookmark_count": 724,
+   "impression_count": 131039,
+   "like_count": 1792,
+   "quote_count": 41,
+   "reply_count": 41,
+   "retweet_count": 157
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/media/HV5BR6OawAAEUip.jpg",
+    "duration_ms": 36000,
+    "mp4": "https://video.twimg.com/amplify_video/2116182929697320960/vid/avc1/540x540/vgyycyoVTdl87d_n.mp4"
+   }
+  ],
+  "category": "Animated Website",
+  "description": "The three.js r187 release video, opening on a classic Cornell-box style render with soft global illumination, showcasing new rendering features for the web. A useful reference for what in-browser 3D and WebGPU rendering can look like on animated sites.",
+  "derived_tags": [
+   "threejs",
+   "webgpu",
+   "3d"
+  ],
+  "replies_summary": "Replies are mostly thanks and appreciation for the three.js team, with a few questions about performance, multiplayer browser games, and three.js versus WebAssembly. A side thread has a developer showing a WebGPU meshlet demo in their own app.",
+  "notable_replies": [
+   {
+    "handle": "@sam_builds_ai",
+    "text": "Exciting, thanks for the update! Love your work"
+   },
+   {
+    "handle": "@tomykite",
+    "text": "r187 already 🍎 anything in this one that helps perf for multiplayer browser games?"
+   },
+   {
+    "handle": "@PashaIGooD",
+    "text": "Looks like @claudeai has finally reached the basics :)\n\nSuper impressive! But how much attention are you paying to performance and optimization?"
+   }
+  ]
+ },
+ {
+  "id": "2115135016233509239",
+  "url": "https://x.com/zeddotdev/status/2115135016233509239",
+  "author_username": "zeddotdev",
+  "author_name": "Zed",
+  "created_at": "2026-10-27T17:34:19.000Z",
+  "text": "Claude Code is now multiplayer.\n\nRun `/delta share` in Claude Code, and your teammate joins in their own session with your full context and uncommitted work. You're both working on the same thread, backed by DeltaDB.\n\nhttps://t.co/prGSZiSzHm https://t.co/4ceGfMA1qk",
+  "public_metrics": {
+   "bookmark_count": 640,
+   "impression_count": 130168,
+   "like_count": 1192,
+   "quote_count": 40,
+   "reply_count": 73,
+   "retweet_count": 57
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2115134961762062336/pu/img/piFKpsWFVO7WcMc5.jpg",
+    "duration_ms": 67733,
+    "mp4": "https://video.twimg.com/ext_tw_video/2115134961762062336/pu/vid/avc1/640x360/m9IA6NkEf01ywPRD.mp4?tag=12"
+   }
+  ],
+  "category": "App Intro",
+  "description": "A 68-second product demo from Zed announcing multiplayer Claude Code via DeltaDB, showing a terminal session shared between teammates on a clean light canvas. A solid reference for demoing an invisible collaboration feature with simple, focused screen recording.",
+  "derived_tags": [
+   "developer-tools",
+   "collaboration",
+   "demo"
+  ],
+  "replies_summary": "Replies are split: some like sharing uncommitted work with full context and ask how simultaneous edits to the same file work, while others say they don't understand the use case for multiplayer AI. A couple report setup problems and timeouts.",
+  "notable_replies": [
+   {
+    "handle": "@luffyselah",
+    "text": "Sharing uncommitted work with full context is the bit I'd use most. Handing off a half-done branch usually means writing a long note nobody reads."
+   },
+   {
+    "handle": "@Patarino",
+    "text": "I'm a huge fan of Zed. I do not understand multiplayer AI at all."
+   },
+   {
+    "handle": "@arcbang_xyz",
+    "text": "Sharing uncommitted work in the session is the useful part. Curious how it handles two people editing the same file at the same moment."
+   }
+  ]
+ },
+ {
+  "id": "2115425807388619022",
+  "url": "https://x.com/emilkowalski/status/2115425807388619022",
+  "author_username": "emilkowalski",
+  "author_name": "Emil Kowalski",
+  "created_at": "2026-10-28T12:49:49.000Z",
+  "text": "Using the right words can drastically improve the results you get from your agents, which is why I built a vocabulary of 244 terms for https://t.co/ItfxHzSjMc.\n\nIf a term is used in a lesson, it gets a dotted underline. You can hover to see its definition or click to see a demo. https://t.co/KSxYQpH9mJ",
+  "public_metrics": {
+   "bookmark_count": 2917,
+   "impression_count": 121032,
+   "like_count": 2945,
+   "quote_count": 24,
+   "reply_count": 95,
+   "retweet_count": 90
+  },
+  "hashtags": [],
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115396250967093249/img/MenXH0Vs5WfZ9mYR.jpg",
+    "duration_ms": 45328,
+    "mp4": "https://video.twimg.com/amplify_video/2115396250967093249/vid/avc1/402x360/IzsDCAZmQibxCA8m.mp4"
+   }
+  ],
+  "category": "Animated Website",
+  "description": "Emil Kowalski demos a 244-term vocabulary inside his course site, where terms get a dotted underline and you can hover for a definition or click for a live animation demo. An excellent reference for inline, interactive glossary patterns on an educational website.",
+  "derived_tags": [
+   "interaction-design",
+   "course",
+   "animation"
+  ],
+  "replies_summary": "Replies praise pairing each definition with a live demo, saying seeing the behavior teaches the judgment to ask for it. Others ask for reverse browsing from demos to terms or a side-by-side of vague versus precise prompts, and several lament the course price.",
+  "notable_replies": [
+   {
+    "handle": "@wang_dx7909",
+    "text": "The demo beside the definition is what makes this teachable. A learner can see the behavior, learn its name, then describe it precisely next time instead of trying variations of “make it feel better.”"
+   },
+   {
+    "handle": "@imuneebshinwari",
+    "text": "The click-through demo is the important bit. A definition gives you the word; seeing the behaviour gives you the judgment to know when to ask for it."
+   },
+   {
+    "handle": "@gyuforge",
+    "text": "Can you browse from the demos back to the terms?\nSometimes you know what you want it to do, just not what to call it."
+   }
+  ]
+ }
+]
