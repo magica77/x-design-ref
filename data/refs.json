@@ -61,6 +61,540 @@
   "thumbnail": "thumbs/2108249557519970369.jpg"
  },
  {
+  "id": "2119406396160540738",
+  "url": "https://x.com/emilkowalski/status/2119406396160540738",
+  "author": {
+   "handle": "emilkowalski",
+   "name": "Emil Kowalski"
+  },
+  "created_at": "2026-11-08T12:27:16.000Z",
+  "collected_at": "2026-11-09T02:14:03Z",
+  "category": "Animated Website",
+  "tags": [],
+  "derived_tags": [
+   "gestures",
+   "interaction-design",
+   "motion"
+  ],
+  "description": "Emil Kowalski's 22-second demo of his /gestures skill, which adds rubber banding, velocity-aware dragging and momentum, drawn from building Sonner and Vaul. A great reference for the physical feel of interactive UI motion.",
+  "text": "New skill: /gestures\n\nHelps you build beautiful, intuitive gestures for your app.\n\nAdds rubber banding, velocity support for dragging, drags that carry momentum, everything I learned from building Sonner and Vaul, and more.\n\nI’ve been using it a lot recently, you’ll love it. https://t.co/1vIxxNo8NI",
+  "metrics": {
+   "impressions": 191756,
+   "likes": 6813,
+   "reposts": 266,
+   "replies": 67,
+   "quotes": 14,
+   "bookmarks": 7423
+  },
+  "metrics_updated_at": "2026-11-09T02:14:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2119406265067556864/img/lyDjFamJX9NuLIZA.jpg",
+    "duration_ms": 21600,
+    "mp4": "https://video.twimg.com/amplify_video/2119406265067556864/vid/avc1/540x540/Ppt_9BV-klPQ_RCB.mp4"
+   }
+  ],
+  "replies_summary": "Replies are full of praise and zero in on the details: rubber banding and release velocity are called out as the things you only notice when they're missing. A couple ask how it handles trackpad versus touch, or whether iOS already covers it.",
+  "notable_replies": [
+   {
+    "handle": "@nistrax",
+    "text": "velocity is the part everyone skips. a drag that stops dead on release feels broken even if the animation looks pretty"
+   },
+   {
+    "handle": "@efbakir",
+    "text": "rubber banding feels like a small detail until its missing"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2119406396160540738.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2119406396160540738.jpg"
+ },
+ {
+  "id": "2119133311465353675",
+  "url": "https://x.com/github/status/2119133311465353675",
+  "author": {
+   "handle": "github",
+   "name": "GitHub"
+  },
+  "created_at": "2026-11-07T18:22:07.000Z",
+  "collected_at": "2026-11-09T02:14:03Z",
+  "category": "App Intro",
+  "tags": [],
+  "derived_tags": [
+   "app-demo",
+   "github",
+   "copilot"
+  ],
+  "description": "GitHub's 9-second clip introducing projects in the GitHub Copilot app, which group goals, sessions and recurring automations across one or more repos. A useful reference for a quick, single-feature UI walkthrough.",
+  "text": "💡 Bring all your related work together with projects in the GitHub Copilot app.\n\nGive Copilot a goal and it will coordinate the work. Your project can span one or more repos or focus on tasks that don't require one. Copilot can start sessions, set up recurring automations, or https://t.co/CkSyabMEfS",
+  "metrics": {
+   "impressions": 83594,
+   "likes": 439,
+   "reposts": 39,
+   "replies": 78,
+   "quotes": 21,
+   "bookmarks": 81
+  },
+  "metrics_updated_at": "2026-11-09T02:14:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2119133285452251136/img/VbWtypxMx-LXcjUh.jpg",
+    "duration_ms": 8766,
+    "mp4": "https://video.twimg.com/amplify_video/2119133285452251136/vid/avc1/640x360/cRGSCqUlrtgDnhPi.mp4?tag=16"
+   }
+  ],
+  "replies_summary": "Replies like keeping multi-repo work and recurring automations under one goal, and ask for Azure DevOps repos, GitHub Projects fields and clearer per-repo provenance. One summarizes the docs, noting it's still in public preview.",
+  "notable_replies": [
+   {
+    "handle": "@BenjieMalinao",
+    "text": "ok multi-repo under one goal is nice. the recurring automations bit is what I've been duct-taping with outside schedules."
+   },
+   {
+    "handle": "@RankedByTask",
+    "text": "Letting one project span several repos fixes a real gap. Most features touch an API repo and a client repo at once, and a per-repo session loses that link."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2119133311465353675.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2119133311465353675.jpg"
+ },
+ {
+  "id": "2118856239719608353",
+  "url": "https://x.com/rauchg/status/2118856239719608353",
+  "author": {
+   "handle": "rauchg",
+   "name": "Guillermo Rauch"
+  },
+  "created_at": "2026-11-07T00:01:08.000Z",
+  "collected_at": "2026-11-09T02:14:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "generative-ui",
+   "ai-sdk",
+   "chat"
+  ],
+  "description": "Guillermo Rauch's 12-second demo of generative UI for chat agents, combining AI SDK, Chat SDK and json-render to go from LLM output to interactive UI in Slack and Teams. A good reference for agent interfaces that render cards instead of walls of text.",
+  "text": "Generative UI for conversational agents.\n\nCombining @aisdk with Chat SDK and 𝚓𝚜𝚘𝚗-𝚛𝚎𝚗𝚍𝚎𝚛, you can go straight from LLM to UI on platforms like Slack and Teams.\n\nI believe this will become the dominant Human-Agent Interaction (HAI) paradigm:\nhttps://t.co/MHxtLyoy7t https://t.co/tRgxRi5Hey",
+  "metrics": {
+   "impressions": 208718,
+   "likes": 2783,
+   "reposts": 137,
+   "replies": 242,
+   "quotes": 53,
+   "bookmarks": 3023
+  },
+  "metrics_updated_at": "2026-11-09T02:14:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118855022205394944/img/n1xesw87UlaiDiUo.jpg",
+    "duration_ms": 12117,
+    "mp4": "https://video.twimg.com/amplify_video/2118855022205394944/vid/avc1/640x360/bSMST7QbotLRuWr9.mp4"
+   }
+  ],
+  "replies_summary": "Replies broadly agree that streamed markdown is a weak interface for approvals and multi-step plans, while stressing that generated UI must come from verified state and be auditable. One long sub-thread argues against chat as a form factor.",
+  "notable_replies": [
+   {
+    "handle": "@rahuulpanda",
+    "text": "Walls of streamed markdown are a terrible interface whenever an agent needs a human to inspect a multi-step plan, compare latency distributions, or approve a scoped action."
+   },
+   {
+    "handle": "@vpodugu",
+    "text": "Agree — but only if the UI is generated from verified state, not raw model output. Otherwise generative UI is just a prettier hallucination."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2118856239719608353.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2118856239719608353.jpg"
+ },
+ {
+  "id": "2118816814214086782",
+  "url": "https://x.com/threejs/status/2118816814214086782",
+  "author": {
+   "handle": "threejs",
+   "name": "Three.js"
+  },
+  "created_at": "2026-11-06T21:24:28.000Z",
+  "collected_at": "2026-11-09T02:14:03Z",
+  "category": "Animated Website",
+  "tags": [],
+  "derived_tags": [
+   "threejs",
+   "webgl",
+   "3d"
+  ],
+  "description": "A 7.5-second photoreal three.js render posted by @threejs with just a link and no caption. A strong reference for how far real-time WebGL lighting and materials can go in the browser.",
+  "text": "https://t.co/gRsFjxmbpk",
+  "metrics": {
+   "impressions": 268360,
+   "likes": 9544,
+   "reposts": 445,
+   "replies": 110,
+   "quotes": 32,
+   "bookmarks": 2974
+  },
+  "metrics_updated_at": "2026-11-09T02:14:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118757403886071808/img/ySZYIOaX_apXGcZQ.jpg",
+    "duration_ms": 7550,
+    "mp4": "https://video.twimg.com/amplify_video/2118757403886071808/vid/avc1/540x540/W51IDD6Y3DqOfr1w.mp4"
+   }
+  ],
+  "replies_summary": "Replies are overwhelmingly impressed by the realism, with people noticing fine lighting detail and asking who made it or for a prompt. One notes that only a video was posted, with no code.",
+  "notable_replies": [
+   {
+    "handle": "@ryanwyl1",
+    "text": "The fact that it’s so real is unreal"
+   },
+   {
+    "handle": "@microcontrast",
+    "text": "I like how you can see even the small safety glass wires reflecting light"
+   },
+   {
+    "handle": "@CocoPanda05",
+    "text": "I don't know what this is, wish I could purchase it as my PC wallpaper so I can feel peaceful everyday"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2118816814214086782.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2118816814214086782.jpg"
+ },
+ {
+  "id": "2118753617637409000",
+  "url": "https://x.com/NotionHQ/status/2118753617637409000",
+  "author": {
+   "handle": "NotionHQ",
+   "name": "Notion"
+  },
+  "created_at": "2026-11-06T17:13:21.000Z",
+  "collected_at": "2026-11-09T02:14:03Z",
+  "category": "App Intro",
+  "tags": [],
+  "derived_tags": [
+   "app-demo",
+   "notion",
+   "chatgpt"
+  ],
+  "description": "Notion's 40-second intro for its ChatGPT plugin, showing the real Notion editor inside ChatGPT with a page taking shape as you chat. A good reference for demoing one app embedded in another.",
+  "text": "We made a Notion plugin for @ChatGPT!\n\nUse the real Notion editor, right inside ChatGPT. Create a page, watch it take shape as you chat, and jump in to edit it yourself.\n\nAll without leaving Chat. https://t.co/1LCnJfDP6e",
+  "metrics": {
+   "impressions": 173396,
+   "likes": 1696,
+   "reposts": 115,
+   "replies": 94,
+   "quotes": 49,
+   "bookmarks": 736
+  },
+  "metrics_updated_at": "2026-11-09T02:14:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118753384790679552/img/0Qzv8sypYS4PU-og.jpg",
+    "duration_ms": 39966,
+    "mp4": "https://video.twimg.com/amplify_video/2118753384790679552/vid/avc1/536x360/Q3QAAvLjvO4J-64s.mp4"
+   }
+  ],
+  "replies_summary": "Replies like building pages from chat and editing by hand in place, but raise questions about separating AI edits in page history, images not being readable, and some reported errors. A few note the broader trend of apps turning into panels inside chat.",
+  "notable_replies": [
+   {
+    "handle": "@JonsTechYT",
+    "text": "This is actually great. Building pages in Notion itself is a pain and tbh I never touch their AI Doing it straight from the chat is way more useful"
+   },
+   {
+    "handle": "@tobiesmile",
+    "text": "being able to fix one little sentence by hand is such a useful part of the idea 🩷 sometimes the tiny edit is the whole edit"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2118753617637409000.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2118753617637409000.jpg"
+ },
+ {
+  "id": "2118458629091426304",
+  "url": "https://x.com/cursor_ai/status/2118458629091426304",
+  "author": {
+   "handle": "cursor_ai",
+   "name": "Cursor"
+  },
+  "created_at": "2026-11-05T21:41:10.000Z",
+  "collected_at": "2026-11-09T02:14:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "dev-tools",
+   "deploy"
+  ],
+  "description": "Cursor's 24-second intro for building live apps and sharing them with a link, covering build, database, security checks and deploy. A clean reference for showing a full end-to-end flow in a short product video.",
+  "text": "You can now build live apps in Cursor and share them with a link.\n\nAgents have made it easier to write code, but most apps never make it off localhost. Describe the tool you want - Cursor will build it, set up a database, run deterministic and agentic security checks, and deploy. https://t.co/v09VJrLwHw",
+  "metrics": {
+   "impressions": 484406,
+   "likes": 3728,
+   "reposts": 358,
+   "replies": 489,
+   "quotes": 362,
+   "bookmarks": 1377
+  },
+  "metrics_updated_at": "2026-11-09T02:14:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118458611320131584/img/uUJSIBl8QaDBnoAA.jpg",
+    "duration_ms": 24234,
+    "mp4": "https://video.twimg.com/amplify_video/2118458611320131584/vid/avc1/640x360/vUkbm04kx-al4KsY.mp4?tag=16"
+   }
+  ],
+  "replies_summary": "Most replies agree with the 'localhost graveyard' pitch and welcome built-in deploy and security checks, while still wanting a human click before publish. Others raise auth, API-key and state-isolation risks, and a few complain about pricing.",
+  "notable_replies": [
+   {
+    "handle": "@BiosickJohnny",
+    "text": "The localhost graveyard is real. Shipping deploy + DB + security checks in one flow removes the step where most agent-built apps quietly die."
+   },
+   {
+    "handle": "@VibeShelfco",
+    "text": "Getting the app off localhost shouldn't be harder than building it. Glad publish still gets a human click."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2118458629091426304.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2118458629091426304.jpg"
+ },
+ {
+  "id": "2118407963723567512",
+  "url": "https://x.com/NotionHQ/status/2118407963723567512",
+  "author": {
+   "handle": "NotionHQ",
+   "name": "Notion"
+  },
+  "created_at": "2026-11-05T18:19:51.000Z",
+  "collected_at": "2026-11-09T02:14:03Z",
+  "category": "App Intro",
+  "tags": [],
+  "derived_tags": [
+   "ios",
+   "app-demo",
+   "calendar"
+  ],
+  "description": "Notion's 15-second intro for the rebuilt native Notion Calendar for iOS, with month, week and schedule views, offline editing, and iPad and Duo support. A tidy reference for a short feature-led mobile app reveal.",
+  "text": "Meet the new @NotionCalendar for iOS, rebuilt from the ground up.\n\nIt’s faster, native, and full of your most-requested features.\n\n→ Month, week, and schedule views\n→ View and edit events offline\n→ Plus iPad and Duo support https://t.co/JHJM4TRwE8",
+  "metrics": {
+   "impressions": 140250,
+   "likes": 954,
+   "reposts": 62,
+   "replies": 57,
+   "quotes": 23,
+   "bookmarks": 233
+  },
+  "metrics_updated_at": "2026-11-09T02:14:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118407123084410880/img/elURH6QwaBMQvo7n.jpg",
+    "duration_ms": 15000,
+    "mp4": "https://video.twimg.com/amplify_video/2118407123084410880/vid/avc1/640x360/gSQD9OVntIXq24Ur.mp4"
+   }
+  ],
+  "replies_summary": "Replies are positive about the native rebuild and performance, with iPad users especially grateful. Many ask about Android, a watch app, widgets and reminders, and one asks which song is used in the video.",
+  "notable_replies": [
+   {
+    "handle": "@blazeisonline",
+    "text": "This focus on performance and native reworks is just awesome"
+   },
+   {
+    "handle": "@Lukejax87",
+    "text": "From all of us on iPads - THANK YOU!"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2118407963723567512.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2118407963723567512.jpg"
+ },
+ {
+  "id": "2118390190246879554",
+  "url": "https://x.com/OpenAI/status/2118390190246879554",
+  "author": {
+   "handle": "OpenAI",
+   "name": "OpenAI"
+  },
+  "created_at": "2026-11-05T17:09:13.000Z",
+  "collected_at": "2026-11-09T02:14:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "ai",
+   "security"
+  ],
+  "description": "OpenAI's 7-second launch clip for GPT-6 Cyber, its security-research model. A useful reference for an ultra-short announcement loop that leaves the detail to the post copy and linked write-up.",
+  "text": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.\n\nThe model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and https://t.co/34uAeNnhwP",
+  "metrics": {
+   "impressions": 4044628,
+   "likes": 21353,
+   "reposts": 1986,
+   "replies": 1294,
+   "quotes": 1429,
+   "bookmarks": 4198
+  },
+  "metrics_updated_at": "2026-11-09T02:14:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118387217588465664/img/N2grMUmP0O_EMvS2.jpg",
+    "duration_ms": 7000,
+    "mp4": "https://video.twimg.com/amplify_video/2118387217588465664/vid/avc1/640x360/8VQ75nYFaMDyW_hX.mp4"
+   }
+  ],
+  "replies_summary": "Replies stay almost entirely on the substance rather than the visual: people pick out the 948 working exploits and the honeypot scope numbers, and ask who qualifies for Daybreak Red access. There's some multilingual chatter and a few low-effort jokes, but no comment on the video itself.",
+  "notable_replies": [
+   {
+    "handle": "@metapodcast_net",
+    "text": "The 948 number is the part that matters. Finding the bugs is the easy half now."
+   },
+   {
+    "handle": "@AIInspoWorld",
+    "text": "Nice to see alignment mentioned right next to the capability jump for a security model. Curious how teams end up using it day to day."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2118390190246879554.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2118390190246879554.jpg"
+ },
+ {
+  "id": "2118388400730591469",
+  "url": "https://x.com/AravSrinivas/status/2118388400730591469",
+  "author": {
+   "handle": "AravSrinivas",
+   "name": "Aravind Srinivas"
+  },
+  "created_at": "2026-11-05T17:02:07.000Z",
+  "collected_at": "2026-11-09T02:14:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "ai-agents",
+   "perplexity"
+  ],
+  "description": "Aravind Srinivas's 71-second launch video for Perplexity Teammates, personal work agents that take goals instead of prompts (the same video also ran on @perplexity_ai). Worth a look as a founder-posted launch that frames a new product category.",
+  "text": "Today, we're launching Perplexity Teammates. \nThey are personal agents for work. And change the paradigm from writing prompts in a session to giving high-level goals. Rolling out to Max users on the web today. Native apps (mobile, desktop) coming soon. https://t.co/dmYIuw52Yb",
+  "metrics": {
+   "impressions": 662550,
+   "likes": 1448,
+   "reposts": 102,
+   "replies": 189,
+   "quotes": 102,
+   "bookmarks": 494
+  },
+  "metrics_updated_at": "2026-11-09T02:14:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118385205107146752/img/9fYJibJsFIDd9s5f.jpg",
+    "duration_ms": 70976,
+    "mp4": "https://video.twimg.com/amplify_video/2118385205107146752/vid/avc1/640x360/DGnIqECaQrm2uY-V.mp4"
+   }
+  ],
+  "replies_summary": "Replies mix praise for the teammates framing with sharp questions about how agents handle half-finished goals and when they should interrupt. Several ask how it differs from rival agent products, and one compliments the product's taste.",
+  "notable_replies": [
+   {
+    "handle": "@khad_im",
+    "text": "I love the teammates abstraction. Quite natrual to abstract an agent as an team mate or employee."
+   },
+   {
+    "handle": "@Deanortz",
+    "text": "I have no idea how you haven't run out of dough  But damn son your shit is tasteful af!"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2118388400730591469.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2118388400730591469.jpg"
+ },
+ {
+  "id": "2118059335930744999",
+  "url": "https://x.com/NotionHQ/status/2118059335930744999",
+  "author": {
+   "handle": "NotionHQ",
+   "name": "Notion"
+  },
+  "created_at": "2026-11-04T19:14:31.000Z",
+  "collected_at": "2026-11-09T02:14:03Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "ai-agents",
+   "saas"
+  ],
+  "description": "Notion's 36-second intro for a shared memory and skills layer that ChatGPT, Claude, Muse and Bot can all use in Notion. A good reference for explaining a cross-product concept in one short, branded clip.",
+  "text": "New: Give all your agents one shared brain in Notion.\n\nNow, ChatGPT, Claude, Muse, and Bot can save what they learn to the same memory and use the same skills in Notion.\n\nLearn how to Notion-pill your agents: https://t.co/msOBhoaM1P",
+  "metrics": {
+   "impressions": 1559307,
+   "likes": 6168,
+   "reposts": 573,
+   "replies": 479,
+   "quotes": 566,
+   "bookmarks": 8488
+  },
+  "metrics_updated_at": "2026-11-09T02:14:03Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118056468381679616/img/_RKDrnmbYzapuzxG.jpg",
+    "duration_ms": 36458,
+    "mp4": "https://video.twimg.com/amplify_video/2118056468381679616/vid/avc1/640x360/Z4-XKezprlH8_J3d.mp4"
+   }
+  ],
+  "replies_summary": "Replies dig into how shared agent memory would work in practice: marking memories as outdated, conflicting writes between agents, and the need for permissions and scopes. A few push back with local-first takes, and some users tag their own bots to try it.",
+  "notable_replies": [
+   {
+    "handle": "@jhonmirandah",
+    "text": "How do you mark a Memory as outdated so the next agent doesn't treat it as current?"
+   },
+   {
+    "handle": "@Luminary3X",
+    "text": "One shared brain for the agents. Ours still arguing in three Slack threads."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2118059335930744999.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2118059335930744999.jpg"
+ },
+ {
   "id": "2116253388883345623",
   "url": "https://x.com/OpenAI/status/2116253388883345623",
   "author": {
