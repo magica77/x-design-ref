@@ -61,6 +61,449 @@
   "thumbnail": "thumbs/2108249557519970369.jpg"
  },
  {
+  "id": "2121804295381377342",
+  "url": "https://x.com/rauchg/status/2121804295381377342",
+  "author": {
+   "handle": "rauchg",
+   "name": "Guillermo Rauch"
+  },
+  "created_at": "2026-11-15T03:15:39.000Z",
+  "collected_at": "2026-11-16T02:24:30Z",
+  "category": "Animated Website",
+  "tags": [],
+  "derived_tags": [
+   "web-components",
+   "winamp",
+   "retro-ui"
+  ],
+  "description": "Guillermo Rauch demos a pixel-faithful Winamp clone running in the browser (winamp-ui-sdk.vercel.app), built from two prompts with UI SDK. It shows window resizing, drag, menubar hover-switching, 10-band EQ sliders and hotkeys, set to Suno music. A delightful reference for nostalgic, highly interactive web UI and for showing off micro-interactions in a screen recording.",
+  "text": "Got to experience the magic of @uisdk.\n\nTwo prompts of fx + Gemini Argon. Pure Web Components. No framework.\n\nThe agent reused 14 UI SDK behaviors out of the box 🤯: window resizing, drag, menubar hover-switching,  typeahead, roving toolbar focus, 10-band EQ sliders, scoped hotkeys, ARIA, and WebMCP agent control.\n\nhttps://t.co/1Ol3xqKWJz (source linked)\nMusic by @suno.",
+  "metrics": {
+   "impressions": 99974,
+   "likes": 2059,
+   "reposts": 101,
+   "replies": 157,
+   "quotes": 24,
+   "bookmarks": 1277
+  },
+  "metrics_updated_at": "2026-11-16T02:24:30Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2121796507259334656/img/gUc01MKgvRoDslQM.jpg",
+    "duration_ms": 61816,
+    "mp4": "https://video.twimg.com/amplify_video/2121796507259334656/vid/avc1/492x360/ZuxRbJn6-UaWSFKG.mp4"
+   }
+  ],
+  "replies_summary": "Most replies are excited, and people single out the 14 reusable behaviors (focus, typeahead, keyboard nav) as the real win. A few push back: design fidelity is lacking, and does accessibility hold up beyond looks? There is also nostalgia for 'UI making me feel emotions again'.",
+  "notable_replies": [
+   {
+    "handle": "lxe",
+    "text": "Oh am I so absolutely ready for UI to go back to making me feel emotions again"
+   },
+   {
+    "handle": "serglotz",
+    "text": "But it doesn't look the same, design detail is of utter importance here, and it's lacking big time."
+   },
+   {
+    "handle": "tofuuuuh",
+    "text": "two prompts to undo twenty years of product management, this is great"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2121804295381377342.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2121804295381377342.jpg"
+ },
+ {
+  "id": "2121297386190295449",
+  "url": "https://x.com/vivaldi0x/status/2121297386190295449",
+  "author": {
+   "handle": "vivaldi0x",
+   "name": "Vik"
+  },
+  "created_at": "2026-11-13T17:41:23.000Z",
+  "collected_at": "2026-11-16T02:24:30Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "travel",
+   "gradient"
+  ],
+  "description": "70-second launch video for Symphony Travel, a hotel-booking product with up to 30% cash back. It opens on a soft iridescent light-leak gradient before the product appears. A reference for an atmospheric, premium-feeling fintech/travel intro with a three-line value prop in the post copy.",
+  "text": "Today, we’re launching Symphony Travel\n\nThe most rewarding place to book hotels\n\nEarn up to 30% cash back across 2.9 million hotels\n\nWith the cash back going into your savings account, earning towards your next trip https://t.co/awXj3sUTkQ",
+  "metrics": {
+   "impressions": 104772,
+   "likes": 367,
+   "reposts": 44,
+   "replies": 42,
+   "quotes": 1,
+   "bookmarks": 85
+  },
+  "metrics_updated_at": "2026-11-16T02:24:30Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2121275502816026624/img/BMafdRE_NPzjZDBx.jpg",
+    "duration_ms": 70122,
+    "mp4": "https://video.twimg.com/amplify_video/2121275502816026624/vid/avc1/640x360/Iqw3Gc61JqBExDwj.mp4"
+   }
+  ],
+  "replies_summary": "Replies are uniformly upbeat congratulations ('perfect for my travels', 'congrats on the launch'), and many are clearly from the author's own community. The only substantive requests are for more countries and an Android version.",
+  "notable_replies": [
+   {
+    "handle": "nicky_tengku",
+    "text": "I love cashback! I use a lot with Agoda cashback. I hope it will be available in more countries please, especially Indonesia. \n\nAndroid version will be nice too 😭"
+   },
+   {
+    "handle": "gusik4ever",
+    "text": "okay this is actually PERFECT timing considering i just started traveling hahaha\n\ncongrats on the launch!!"
+   },
+   {
+    "handle": "Chopi71",
+    "text": "the next trip is a dangerous loop"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2121297386190295449.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2121297386190295449.jpg"
+ },
+ {
+  "id": "2121279582703628747",
+  "url": "https://x.com/zeddotdev/status/2121279582703628747",
+  "author": {
+   "handle": "zeddotdev",
+   "name": "Zed"
+  },
+  "created_at": "2026-11-13T16:30:38.000Z",
+  "collected_at": "2026-11-16T02:24:30Z",
+  "category": "App Intro",
+  "tags": [],
+  "derived_tags": [
+   "feature-teaser",
+   "code-editor",
+   "agents"
+  ],
+  "description": "12-second Zed teaser: a git-blame-style inline annotation in the editor links a line of Rust code back to the agent thread that produced it. A crisp reference for a micro-teaser that shows a single interaction in real product UI.",
+  "text": "Soon, your agents will be able to trace code back to the threads that produced it, giving them access to the decisions and reasoning the code alone can’t explain. https://t.co/zq5pXNvJxu",
+  "metrics": {
+   "impressions": 52225,
+   "likes": 1124,
+   "reposts": 32,
+   "replies": 50,
+   "quotes": 26,
+   "bookmarks": 258
+  },
+  "metrics_updated_at": "2026-11-16T02:24:30Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2121279554362687488/pu/img/s-q31Nm1yE9wl1iD.jpg",
+    "duration_ms": 12500,
+    "mp4": "https://video.twimg.com/ext_tw_video/2121279554362687488/pu/vid/avc1/566x360/RNba1HIV4dwTcZk4.mp4?tag=12"
+   }
+  ],
+  "replies_summary": "Developers like the idea ('git blame for agents') and joke about threads where someone said 'ship it anyway'. A few want it outside the GUI (an API, SDK or TUI), and some are wary of yet more agent tracking.",
+  "notable_replies": [
+   {
+    "handle": "lorenzolfm",
+    "text": "loved it. git blame for agents haha"
+   },
+   {
+    "handle": "nistrax",
+    "text": "tracing code back to the thread that produced it is great. now do the thread where someone said ship it anyway"
+   },
+   {
+    "handle": "uhhhnobodyy",
+    "text": "Would be great if it wasn’t locked inside a GUI box. Where is the API/SDK? TUI? Git works well because its mostly agnostic, it does a narrow set of things well"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2121279582703628747.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2121279582703628747.jpg"
+ },
+ {
+  "id": "2120950020249895314",
+  "url": "https://x.com/vercel/status/2120950020249895314",
+  "author": {
+   "handle": "vercel",
+   "name": "Vercel"
+  },
+  "created_at": "2026-11-12T18:41:04.000Z",
+  "collected_at": "2026-11-16T02:24:30Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "developer-tools",
+   "ui"
+  ],
+  "description": "Vercel's 'Introducing the UI SDK' launch film (~1:42): it opens on a stark black title card with the boxed 'UI SDK' wordmark and builds the story with typed copy before getting to the product demos. A good reference for a minimal, brand-consistent developer-tool launch where a four-word post lets the video do all the talking.",
+  "text": "Introducing the UI SDK. https://t.co/3rd2dDTYNz",
+  "metrics": {
+   "impressions": 849301,
+   "likes": 6504,
+   "reposts": 429,
+   "replies": 213,
+   "quotes": 234,
+   "bookmarks": 5375
+  },
+  "metrics_updated_at": "2026-11-16T02:24:30Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2120949925425065984/img/4DSJbkjJAuKq0sfQ.jpg",
+    "duration_ms": 101600,
+    "mp4": "https://video.twimg.com/amplify_video/2120949925425065984/vid/avc1/640x360/orzl6W7l_vr4NxVW.mp4?tag=16"
+   }
+  ],
+  "replies_summary": "Reactions are mixed. Some people are impressed (one says they one-shotted an ecommerce port). Others ask how it differs from just starting from shadcn base components, and another user explains that shared 'behavior primitives' are the difference. Many replies are @bot summon requests.",
+  "notable_replies": [
+   {
+    "handle": "Ritchie40652966",
+    "text": "I have One shotted an ecommerce port. Really inpressed.\nUi SDK Is awesome.\nVue support Is what its makes perfect."
+   },
+   {
+    "handle": "salleedesign",
+    "text": "But what's the difference with just taking a shadcn base component (or any other) and build your own component from there? I still don't get the value for this."
+   },
+   {
+    "handle": "iamrakhmatov",
+    "text": "Because the same behavior is shared between multiple components, so instead of creating 10 component primitives you create 2 behavior primitives so that agent could create that 10 component primitives itself and then build the actual UI component composing them together."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2120950020249895314.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2120950020249895314.jpg"
+ },
+ {
+  "id": "2120906813390594162",
+  "url": "https://x.com/obsdmd/status/2120906813390594162",
+  "author": {
+   "handle": "obsdmd",
+   "name": "Obsidian"
+  },
+  "created_at": "2026-11-12T15:49:23.000Z",
+  "collected_at": "2026-11-16T02:24:30Z",
+  "category": "App Intro",
+  "tags": [],
+  "derived_tags": [
+   "release-video",
+   "obsidian",
+   "search"
+  ],
+  "description": "Short (~11s) release clip for Obsidian 1.15.1 showing the revamped search: a pill-shaped search field with cursor, relevance sorting and instant results in the native macOS window. A tight reference for single-feature UI demo clips attached to a changelog-style post.",
+  "text": "Obsidian 1.15.1 is now available!\n\n- Search is revamped with faster results, Relevance sort, and accent-insensitive matching.\n- New Android widgets! View notes on your home screen.\n- Web Viewer on mobile. Turn it on in Core plugins to open web pages from within Obsidian.\n\nDozens of performance improvements and fixes across the app:\n\n- On desktop, the workspace now appears right away while Obsidian starts, with start-up progress in the status bar instead of a loading screen.\n- Large canvases now open, pan, and zoom much faster.\n- Smart lists prevents over-indenting list items.\n- New vaults no longer show the ribbon.\n- Live Preview: Opening a note no longer shows the Markdown syntax at the cursor (e.g. the ## of a heading on the first line) until you move the cursor or start typing.\n- Hold Ctrl/Cmd while picking a vault from the sidebar to replace the current window instead of opening a new one.\n- iOS Voice capture now starts a new line when you pause speaking for 2 seconds.\n- Android: Obsidian starts faster in vaults with large hidden folders, such as .git.",
+  "metrics": {
+   "impressions": 74801,
+   "likes": 1014,
+   "reposts": 67,
+   "replies": 35,
+   "quotes": 10,
+   "bookmarks": 184
+  },
+  "metrics_updated_at": "2026-11-16T02:24:30Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2120906249449750528/img/0vDF8xPEkO5zgBYn.jpg",
+    "duration_ms": 10666,
+    "mp4": "https://video.twimg.com/amplify_video/2120906249449750528/vid/avc1/480x678/F4HvMqTEqGk9k4BZ.mp4"
+   }
+  ],
+  "replies_summary": "Users love the faster startup, the widgets and accent-insensitive search (multilingual users especially). Some ask for an iOS native app and multi-window vaults, and one argues that search needs more context per result, not just speed.",
+  "notable_replies": [
+   {
+    "handle": "AskarKerey",
+    "text": "The accent-insensitive search is a lovely detail for multilingual notes."
+   },
+   {
+    "handle": "overflowyx",
+    "text": "I don't think speed was ever the main problem with search. The problem is that it looks like VS Code's search bar. When I'm trying to find something I wrote, I usually need more context around each result, and a sidebar is a poor fit for that."
+   },
+   {
+    "handle": "DiligentDao",
+    "text": "whatever you did to make relevance work like it does. it made me want to buy you a kombucha."
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2120906813390594162.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2120906813390594162.jpg"
+ },
+ {
+  "id": "2120626982258122793",
+  "url": "https://x.com/DanielSakoR2/status/2120626982258122793",
+  "author": {
+   "handle": "DanielSakoR2",
+   "name": "Daniel Sako"
+  },
+  "created_at": "2026-11-11T21:17:26.000Z",
+  "collected_at": "2026-11-16T02:24:30Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "cinematic",
+   "typography"
+  ],
+  "description": "~1-minute cinematic launch film for Vextrum ('Sight. Not search.'), a private intelligence system for organisations. It's built from low-contrast typography fading in on a textured black background ('A company changes direction. A market begins to shift.'). A reference for moody, copy-driven B2B launch films with no UI.",
+  "text": "Today we're launching Vextrum.\n\nSight. Not search.\nWe built it around one ambition: you shouldn't have to search for intelligence. It should find you.\n\nA private intelligence system built around your organisation: your markets, counterparties and operations. https://t.co/ZqGzycJe9U",
+  "metrics": {
+   "impressions": 71733,
+   "likes": 5,
+   "reposts": 0,
+   "replies": 0,
+   "quotes": 0,
+   "bookmarks": 1
+  },
+  "metrics_updated_at": "2026-11-16T02:24:30Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2120626902599622656/img/XDT8dwkpHQ1WYwH9.jpg",
+    "duration_ms": 59266,
+    "mp4": "https://video.twimg.com/amplify_video/2120626902599622656/vid/avc1/640x360/e2nNq_cx9CLyORrw.mp4"
+   }
+  ],
+  "replies_summary": "The X search returned no replies for this conversation, so no reply sentiment could be summarized.",
+  "notable_replies": [],
+  "gold_standard": false,
+  "screenshot": "shots/2120626982258122793.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2120626982258122793.jpg"
+ },
+ {
+  "id": "2120290803419639914",
+  "url": "https://x.com/Petrichorbios/status/2120290803419639914",
+  "author": {
+   "handle": "Petrichorbios",
+   "name": "Petrichor"
+  },
+  "created_at": "2026-11-10T23:01:35.000Z",
+  "collected_at": "2026-11-16T02:24:30Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "yc",
+   "biotech"
+  ],
+  "description": "YC F26 launch video for Petrichor, 'a wet lab for frontier AI labs': a founder-to-camera walk-and-talk with large serif captions burned in. A reference for the lo-fi YC founder launch-video format, and for how burned-in editorial captions make it work on mute.",
+  "text": "Today we're launching Petrichor (YC F26), a wet lab for frontier AI labs.  \n\nWe run experiments in parallel and return the data from every step. https://t.co/PL89WNMizs",
+  "metrics": {
+   "impressions": 84215,
+   "likes": 373,
+   "reposts": 33,
+   "replies": 72,
+   "quotes": 28,
+   "bookmarks": 191
+  },
+  "metrics_updated_at": "2026-11-16T02:24:30Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2120290724512210944/img/VJeTr0jhBt6-kfP5.jpg",
+    "duration_ms": 44928,
+    "mp4": "https://video.twimg.com/amplify_video/2120290724512210944/vid/avc1/640x360/XhMZ77epiP4JHZwy.mp4"
+   }
+  ],
+  "replies_summary": "Some replies are congratulations and investor interest, but a vocal group is skeptical. They call it 'just a CRO' and mock the founders' lack of biology experience and the very idea of a launch video for a lab facility.",
+  "notable_replies": [
+   {
+    "handle": "biotechsanya2",
+    "text": "Morons doing launch video for the CRO facility im crying"
+   },
+   {
+    "handle": "noah_vandal",
+    "text": "Wow congrats! Do you do this autonomous or is the Python essentially submitting a request?"
+   },
+   {
+    "handle": "jackson_stokes",
+    "text": "this is so cool, lemme angel"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2120290803419639914.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2120290803419639914.jpg"
+ },
+ {
+  "id": "2120216592395174382",
+  "url": "https://x.com/OpenAI/status/2120216592395174382",
+  "author": {
+   "handle": "OpenAI",
+   "name": "OpenAI"
+  },
+  "created_at": "2026-11-10T18:06:42.000Z",
+  "collected_at": "2026-11-16T02:24:30Z",
+  "category": "Product Intro",
+  "tags": [],
+  "derived_tags": [
+   "launch-video",
+   "kinetic-type",
+   "ai"
+  ],
+  "description": "48-second beta launch for Businesses in ChatGPT: bright white canvas, big black kinetic type ('Your business,') and floating 3D shopping objects that walk through claiming a listing, managing info and building a Business Agent. A clean reference for type-led product intros that keep the UI simple and the motion playful.",
+  "text": "Now in beta: Businesses in ChatGPT.\n\nClaim your business, manage your information, and get insights on how people engage with you.\n\nEligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.\n\nhttps://t.co/N2GEZX0mFT https://t.co/lYj2Z48fhQ",
+  "metrics": {
+   "impressions": 6178887,
+   "likes": 17812,
+   "reposts": 1445,
+   "replies": 1487,
+   "quotes": 1562,
+   "bookmarks": 19204
+  },
+  "metrics_updated_at": "2026-11-16T02:24:30Z",
+  "media_type": "video",
+  "media": [
+   {
+    "type": "video",
+    "url": null,
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2120214011451170817/img/p-eqRNRKImbCTq9L.jpg",
+    "duration_ms": 48600,
+    "mp4": "https://video.twimg.com/amplify_video/2120214011451170817/vid/avc1/640x360/ouLZLxhXwImfvFrC.mp4"
+   }
+  ],
+  "replies_summary": "Replies to this post are mostly practical feedback, with some spam and bot tags mixed in. People like FAQ-answering business agents but say the claim flow has to lead to real action, not just a stats page. Others complain about it being US-only and about ChatGPT UI changes in general.",
+  "notable_replies": [
+   {
+    "handle": "VanceXin",
+    "text": "The insights only earn their keep if the owner can act in the same place: a claimed listing that can answer \"do you have this in stock\" beats a dashboard nobody opens."
+   },
+   {
+    "handle": "ZoeyChanXO",
+    "text": "Cool feature, but if u make me go through the whole setup just to tell me it's US-only at the end, that's a scam. Small biz outside the US just got ghosted again."
+   },
+   {
+    "handle": "TheTetherETH",
+    "text": "Business agents answering FAQs makes sense fr"
+   }
+  ],
+  "gold_standard": false,
+  "screenshot": "shots/2120216592395174382.png",
+  "screenshot_method": "embed",
+  "thumbnail": "thumbs/2120216592395174382.jpg"
+ },
+ {
   "id": "2119406396160540738",
   "url": "https://x.com/emilkowalski/status/2119406396160540738",
   "author": {
